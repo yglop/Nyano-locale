@@ -1,1 +1,1 @@
-advertisement-chemdrobe-1 = Our clothes are 0.5% more resistant to acid spills! Get yours now!
+advertisement-chemdrobe-1 = Наши вещи на 0.5% более устойчивы к кислоте чем у остальных! Могут быть твоими уже сейчас!

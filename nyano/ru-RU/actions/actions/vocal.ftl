@@ -1,3 +1,3 @@
-action-name-scream = Scream
-action-description-scream = AAAAAAAAAAAAAAAAAAAAAAAAA
+action-name-scream = Крикнуть
+action-description-scream = ААААААААААААААААААААААААА
 scream-action-popup = { CAPITALIZE(THE($target)) } { CONJUGATE-BASIC($target, "scream", "screams") }!

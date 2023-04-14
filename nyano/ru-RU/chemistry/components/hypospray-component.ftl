@@ -1,6 +1,7 @@
 ## UI
 
 hypospray-volume-text = Объем: [color=white]{ $currentVolume }/{ $totalVolume }[/color]
+
 ## Entity
 
 hypospray-component-inject-other-message = Вы вводите { $other }.

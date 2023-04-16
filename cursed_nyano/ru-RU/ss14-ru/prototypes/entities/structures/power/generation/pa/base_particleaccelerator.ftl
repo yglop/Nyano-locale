@@ -1,6 +1,0 @@
-ent-ParticleAcceleratorBase =  { "" }
-
-.desc =  { "" }
-
-.suffix =  { "" }
-

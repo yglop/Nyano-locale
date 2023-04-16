@@ -1,2 +1,0 @@
-book-read-verb =  Read
-

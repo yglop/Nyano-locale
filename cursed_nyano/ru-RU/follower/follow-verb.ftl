@@ -1,2 +1,0 @@
-verb-follow-text =  Следовать
-

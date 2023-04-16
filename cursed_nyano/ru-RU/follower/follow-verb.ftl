@@ -1,0 +1,2 @@
+verb-follow-text =  Следовать
+

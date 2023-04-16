@@ -1,0 +1,6 @@
+ent-HitscanEffect =  { "" }
+
+.desc =  { "" }
+
+.suffix =  { "" }
+

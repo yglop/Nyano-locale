@@ -1,17 +1,17 @@
-mail-recipient-mismatch = Recipient name or job does not match.
-mail-invalid-access = Recipient name and job match, but access isn't as expected.
-mail-locked = The anti-tamper lock hasn't been removed. Tap the recipient's ID.
-mail-desc-far = A parcel of mail. You can't make out who it's addressed to from this distance.
-mail-desc-close = A parcel of mail addressed to { CAPITALIZE($name) }, { $job }.
-mail-desc-fragile = It has a [color=red]red fragile label[/color].
-mail-desc-priority = The anti-tamper lock's [color=yellow]yellow priority tape[/color] is active. Better deliver it on time!
-mail-desc-priority-inactive = The anti-tamper lock's [color=#886600]yellow priority tape[/color] is inactive.
-mail-unlocked = Anti-tamper system unlocked.
-mail-unlocked-by-emag = Anti-tamper system *BZZT*.
-mail-unlocked-reward = Anti-tamper system unlocked. { $bounty } zorkmids have been added to cargo's account.
-mail-penalty-lock = ANTI-TAMPER LOCK BROKEN. CARGO BANK ACCOUNT PENALIZED BY { $credits } CREDITS.
-mail-penalty-fragile = INTEGRITY COMPROMISED. CARGO BANK ACCOUNT PENALIZED BY { $credits } CREDITS.
-mail-penalty-expired = DELIVERY PAST DUE. CARGO BANK ACCOUNT PENALIZED BY { $credits } CREDITS.
+mail-recipient-mismatch = Имя или должность получателя не совпадают.
+mail-invalid-access = Имя и должность получателя совпадают, не подходящий уровень допуска.
+mail-locked = Электронный замок активирован. Разблокируйте с помощью вашей ID карты.
+mail-desc-far = Посылка. С такова расстояния вы не можете разобрать, кому она предназначена.
+mail-desc-close = Посылка предназначенная для { CAPITALIZE($name) }, { $job }.
+mail-desc-fragile = Имеется наклейка [color=red]Внимание! Хрупкое![/color].
+mail-desc-priority = На электроном замке горит надпись [color=yellow]Высокий приоритет![/color]. Надо бы поторопиться с доставкой!
+mail-desc-priority-inactive = На электронном замке не горит надпись [color=#886600]Высокий приоритет![/color].
+mail-unlocked = Электронный замок разблокирован.
+mail-unlocked-by-emag = Электронный замок *жужжит*.
+mail-unlocked-reward = Электронный замок разблокирован. { $bounty } нянобаксов начислено на счет отдела снабжения.
+mail-penalty-lock = ЭЛЕКТРОННЫЙ ЗАМОК СЛОМАН. ОТДЕЛУ СНАБЖЕНИЯ БЫЛ ВЫСТАВЛЕН ШТРАФ В РАЗМЕРЕ { $credits } НЯНОБАКСОВ.
+mail-penalty-fragile = НАРУШЕНА ЦЕЛОСТНОСТЬ ПОСЫЛКИ. ОТДЕЛУ СНАБЖЕНИЯ БЫЛ ВЫСТАВЛЕН ШТРАФ В РАЗМЕРЕ { $credits } НЯНОБАКСОВ.
+mail-penalty-expired = СРОК ДОСТАВКИ НАРУШЕН. CARGO ОТДЕЛУ СНАБЖЕНИЯ БЫЛ ВЫСТАВЛЕН ШТРАФ В РАЗМЕРЕ { $credits } НЯНОБАКСОВ.
 command-mailto-description = Queue a parcel to be delivered to an entity. Example usage: `mailto 1234 5678 false false`. The target container's contents will be transferred to an actual mail parcel.
 command-mailto-help = Usage: { $command } <recipient entityUid> <container entityUid> [is-fragile: true or false] [is-priority: true or false]
 command-mailto-no-mailreceiver = Target recipient entity does not have a { $requiredComponent }.

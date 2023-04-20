@@ -1,1 +1,0 @@
-ent-ClothingOuterVestValet = valet vest

@@ -1,1 +1,0 @@
-ent-ShockCollar = shock collar

@@ -1,1 +1,0 @@
-ent-MobObserverTelegnostic = telegnostic projection

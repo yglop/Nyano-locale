@@ -1,1 +1,0 @@
-ent-SpawnVehiclePussywagon = Janicart Spawner

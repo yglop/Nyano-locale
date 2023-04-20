@@ -1,1 +1,0 @@
-ent-PoweredlightBlueInterior = { ent-PoweredlightExterior }

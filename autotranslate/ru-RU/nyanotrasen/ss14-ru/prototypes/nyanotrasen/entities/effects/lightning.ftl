@@ -1,1 +1,0 @@
-ent-LightningNoospheric = noospheric lightning

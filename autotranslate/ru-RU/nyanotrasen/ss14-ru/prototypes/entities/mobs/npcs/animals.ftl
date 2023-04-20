@@ -1,1 +1,0 @@
-ent-MobKangarooJudge = judge kangaroo

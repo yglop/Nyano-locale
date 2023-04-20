@@ -1,1 +1,0 @@
-ent-SophicScribe = sophic grammateus

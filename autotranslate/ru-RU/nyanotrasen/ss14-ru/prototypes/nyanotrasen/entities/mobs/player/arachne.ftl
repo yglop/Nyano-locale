@@ -1,1 +1,0 @@
-ent-MobArachne = Player arachne

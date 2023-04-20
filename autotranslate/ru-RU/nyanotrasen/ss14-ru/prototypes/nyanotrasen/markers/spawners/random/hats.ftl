@@ -1,1 +1,0 @@
-ent-HatSpawner = Hat Spawner

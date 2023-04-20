@@ -1,1 +1,0 @@
-ent-PaintingMothBigCatch = Big Catch

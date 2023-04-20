@@ -1,1 +1,0 @@
-ent-ClothingOuterWizardFake = wizard robes

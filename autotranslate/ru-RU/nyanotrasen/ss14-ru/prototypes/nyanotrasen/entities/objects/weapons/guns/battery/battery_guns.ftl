@@ -1,1 +1,0 @@
-ent-Decloner = decloner

@@ -1,9 +1,0 @@
-ent-CheckerBoard = шашечная доска
-.desc = Содержит 2 костюма биологической опасности, чтобы никакая болезнь не отвлекала вас от лечения экипажа. Для открытия требуется доступ врача.
-.suffix = { "" }
-ent-CheckerBoardTabletop = шашки
-ent-BaseCheckerPiece = { ent-BaseItem }
-ent-WhiteCheckerPiece = белая шашка
-ent-WhiteCheckerQueen = белая дамка
-ent-BlackCheckerPiece = чёрная шашка
-ent-BlackCheckerQueen = чёрная дамка

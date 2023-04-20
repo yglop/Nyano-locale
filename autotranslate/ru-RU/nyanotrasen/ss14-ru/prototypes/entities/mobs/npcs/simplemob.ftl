@@ -1,1 +1,0 @@
-ent-SimpleFleshAnomalyBase = { ent-SimpleSpaceMobBase }

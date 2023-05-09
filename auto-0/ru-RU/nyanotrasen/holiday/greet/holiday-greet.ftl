@@ -1,1 +1,1 @@
-holiday-name-cirno-day = Cirno Day
+holiday-name-cirno-day = День Cirno

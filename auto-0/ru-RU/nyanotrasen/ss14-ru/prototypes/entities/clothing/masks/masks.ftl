@@ -1,3 +1,3 @@
-ent-ClothingMaskGasVoiceMasker = gas mask
-    .desc = A face-covering mask that can be connected to an air supply. There are switches and knobs underneath the mask.
+ent-ClothingMaskGasVoiceMasker = противогаз
+    .desc = Маска, закрывающая лицо, которую можно подключить к источнику воздуха. Под маской есть кнопки и переключатели.
     .suffix = Voice Mask

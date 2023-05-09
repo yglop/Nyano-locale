@@ -1,2 +1,2 @@
-department-Epistemics = epistemics
-department-Silicon = silicon
+department-Epistemics = эпистемология
+department-Silicon = силикон

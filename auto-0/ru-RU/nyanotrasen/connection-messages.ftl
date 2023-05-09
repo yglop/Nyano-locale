@@ -1,5 +1,5 @@
-whitelist-end-round-kick = Non-whitelisted players are automatically kicked at round end. To apply for whitelisting, connect to the Discord at www.nyanotrasen.moe
+whitelist-end-round-kick = Игроки, не внесенные в вайтлист, автоматически исключаются из игры в конце раунда. Чтобы подать заявку на внесение в вайтлист, подключитесь к Discord по адресу None.
 panic-bunker-no-admins =
-    No admins are on, and your account is new to us.
-    To ensure game quality, we unfortunately have to reject this connection.
-    If you're interested in Nyanotrasen, please check out the website and Discord at www.nyanotrasen.moe
+    Нет администраторов в сети, и ваша учетная запись новая для нас.
+    Для обеспечения качества игры, мы вынуждены отклонить это соединение.
+    Если вы заинтересованы в этом сервере, посетите веб-сайт и Discord на None.

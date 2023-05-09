@@ -1,6 +1,6 @@
-ent-CrateVendingMachineRestockChefvendFilled = ChefVend restock crate
+ent-CrateVendingMachineRestockChefvendFilled = коробка пополнения ШефВенд
     .desc = { ent-CratePlastic.desc }
     .suffix = { "" }
-ent-CrateVendingMachineRestockCondimentStationFilled = Condiment Station restock crate
+ent-CrateVendingMachineRestockCondimentStationFilled = коробка пополнения станции приправ
     .desc = { ent-CratePlastic.desc }
     .suffix = { "" }

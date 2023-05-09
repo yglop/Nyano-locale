@@ -1,3 +1,3 @@
-ent-FishLabeler = fish labeler
-    .desc = A hand labeler modified for naming your fish.
+ent-FishLabeler = этикетировщик рыбы
+    .desc = Ручной этикетировщик, модифицированный для именования вашей рыбы.
     .suffix = { "" }

@@ -1,3 +1,3 @@
-ent-LargeBarSign = large bar sign
+ent-LargeBarSign = бальшая барная вывеска
     .desc = { "" }
     .suffix = { "" }

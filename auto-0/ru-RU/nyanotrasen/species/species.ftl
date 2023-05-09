@@ -1,4 +1,4 @@
-species-name-felinid = Felinid
-species-name-oni = Oni
-species-name-arachne = Arachne
-species-name-moth = Moth
+species-name-felinid = Фелинид
+species-name-oni = Они
+species-name-arachne = Арахнид
+species-name-moth = Моль

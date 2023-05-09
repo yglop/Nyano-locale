@@ -1,1 +1,1 @@
-ui-escape-discord = Apply for whitelist
+ui-escape-discord = Подать заявку на вайтлист

@@ -1,2 +1,2 @@
-ghost-roles-window-redirect-label = Or, you can connect to another server.
-ghost-roles-window-redirect = Connect
+ghost-roles-window-redirect-label = Или вы можете подключиться к другому серверу.
+ghost-roles-window-redirect = Присоединиться

@@ -1,7 +1,7 @@
-disease-sneeze = { CAPITALIZE($person) } sneezes.
-disease-cough = { CAPITALIZE($person) } coughs.
-disease-screech = { CAPITALIZE($person) } screeches.
-disease-yawn = { CAPITALIZE($person) } yawns.
-disease-meow = { CAPITALIZE($person) } meows.
-disease-hiss = { CAPITALIZE($person) } hisses.
-disease-beep = { CAPITALIZE($person) } beeps.
+disease-sneeze = { CAPITALIZE($person) } чихает.
+disease-cough = { CAPITALIZE($person) } кашляет.
+disease-screech = { CAPITALIZE($person) } визжит.
+disease-yawn = { CAPITALIZE($person) } зевает.
+disease-meow = { CAPITALIZE($person) } мяукает.
+disease-hiss = { CAPITALIZE($person) } шипит.
+disease-beep = { CAPITALIZE($person) } гудит.

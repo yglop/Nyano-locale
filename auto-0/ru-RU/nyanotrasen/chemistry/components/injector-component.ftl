@@ -1,1 +1,1 @@
-injector-component-failure-hardsuit = You can't get the needle to go through the thick plating!
+injector-component-failure-hardsuit = Вы не можете сделать укол через такой слой металла!

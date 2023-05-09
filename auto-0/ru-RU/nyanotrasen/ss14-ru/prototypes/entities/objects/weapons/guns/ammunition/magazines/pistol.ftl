@@ -1,3 +1,3 @@
-ent-MagazinePistolCalicoTopMounted = Calico magazine (.35 auto top-mounted)
+ent-MagazinePistolCalicoTopMounted = магазин Calico (.35 auto надствольный)
     .desc = { ent-BaseMagazinePistolSubMachineGun.desc }
     .suffix = { "" }

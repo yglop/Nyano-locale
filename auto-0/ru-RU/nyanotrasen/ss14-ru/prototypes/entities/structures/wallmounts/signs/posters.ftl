@@ -1,3 +1,3 @@
-ent-PosterContrabandGotWood = Got Wood?
-    .desc = A grimy old advert for a seedy lumber company. "You got a friend in me." is scrawled in the corner.
+ent-PosterContrabandGotWood = Получил дерево?
+    .desc = Грязная старая реклама захудалой лесопромышленной компании. «У тебя есть друг во мне». нацарапано в углу.
     .suffix = { "" }

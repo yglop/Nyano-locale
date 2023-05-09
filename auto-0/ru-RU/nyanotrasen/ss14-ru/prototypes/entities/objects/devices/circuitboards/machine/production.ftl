@@ -1,3 +1,3 @@
-ent-DeepFryerMachineCircuitboard = deep fryer machine board
+ent-DeepFryerMachineCircuitboard = фритюрница (машинная плата)
     .desc = { ent-BaseMachineCircuitboard.desc }
     .suffix = { "" }

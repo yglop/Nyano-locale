@@ -1,3 +1,3 @@
-ent-FoodCondimentPacketOilCorn = corn oil
-    .desc = Corn oil. A delicious oil used in cooking. Made from corn.
+ent-FoodCondimentPacketOilCorn = кукурузное масло
+    .desc = Кукурузное масло. Вкусное масло, используемое в кулинарии. Сделано из кукурузы.
     .suffix = { "" }

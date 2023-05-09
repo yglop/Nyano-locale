@@ -1,1 +1,1 @@
-connecting-redirect = Connect to another server
+connecting-redirect = Подключение к другому серверу

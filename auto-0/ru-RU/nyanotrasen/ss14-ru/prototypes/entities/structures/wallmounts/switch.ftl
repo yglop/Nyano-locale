@@ -1,9 +1,9 @@
-ent-SignalSwitchDirectional = signal switch
-    .suffix = directional
+ent-SignalSwitchDirectional = сигнальный переключатель
+    .suffix = направленный
     .desc = { ent-SignalSwitch.desc }
-ent-SignalButtonDirectional = signal button
-    .suffix = directional
+ent-SignalButtonDirectional = сигнальная кнопка
+    .suffix = направленный
     .desc = { ent-SignalButton.desc }
-ent-ApcNetSwitchDirectional = apc net switch
-    .suffix = directional
+ent-ApcNetSwitchDirectional = переключатель сети ЛКП
+    .suffix = направленный
     .desc = { ent-ApcNetSwitch.desc }

@@ -1,1 +1,1 @@
-ame-controller-warning = WARNING: AME fuel at { $percentage }%!
+ame-controller-warning = ВНИМАНИЕ: Уровень топлива ДАМ { $percentage }%!

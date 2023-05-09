@@ -1,3 +1,3 @@
-ent-BoxHolyWater = holy water kit
-    .desc = This box is filled with everything you need to make homemade holy water. Water not included.
+ent-BoxHolyWater = набор святой воды
+    .desc = В этой коробке есть все необходимое для приготовления святой воды в домашних условиях. Вода не включена.
     .suffix = { "" }

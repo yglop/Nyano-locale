@@ -1,1 +1,1 @@
-job-supervisors-warden = the warden, and the head of security
+job-supervisors-warden = смотритель и глава службы безопасности

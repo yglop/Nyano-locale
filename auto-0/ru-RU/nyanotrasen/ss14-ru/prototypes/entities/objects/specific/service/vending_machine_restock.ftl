@@ -1,6 +1,6 @@
-ent-VendingMachineRestockChefvend = ChefVend restock box
-    .desc = Refill the ChefVend. Just don't break any more of the eggs.
+ent-VendingMachineRestockChefvend = коробка пополнения ШефВенд
+    .desc = Заполняет ШефВенд. Только не разбейте больше яиц.
     .suffix = { "" }
-ent-VendingMachineRestockCondimentStation = Condiment Station restock box
-    .desc = Refill the Condiment Station. Mmmm, cold sauce.
+ent-VendingMachineRestockCondimentStation = коробка пополнения станции приправ
+    .desc = Заполняет станцию приправ. Мммм, холодный соус.
     .suffix = { "" }

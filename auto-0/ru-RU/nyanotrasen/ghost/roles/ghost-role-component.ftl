@@ -1,4 +1,4 @@
-ghost-role-information-giant-spider-vampire-name = Oneirophage
-ghost-role-information-giant-spider-vampire-description = Nest. Lure. Ambush. Consume.
-ghost-role-information-cancer-mouse-name = Cancer Mouse
-ghost-role-information-cancer-mouse-description = Make off color comments, but not so edgy that they break the rules of the server.
+ghost-role-information-giant-spider-vampire-name = Онейрофаг
+ghost-role-information-giant-spider-vampire-description = Гнездо. Приманка. Засада. Потреблять.
+ghost-role-information-cancer-mouse-name = Раковая Мышь
+ghost-role-information-cancer-mouse-description = Делайте цветные комментарии, но не настолько резкие, чтобы они нарушали правила сервера.

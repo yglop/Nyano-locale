@@ -1,12 +1,12 @@
-ent-FloorTileItemGrassDark = dark grass tile
+ent-FloorTileItemGrassDark = клетка тёмной травы
     .desc = { ent-FloorTileItemBase.desc }
     .suffix = { "" }
-ent-FloorTileItemGrassLight = light grass tile
+ent-FloorTileItemGrassLight = клетка светлой травы
     .desc = { ent-FloorTileItemBase.desc }
     .suffix = { "" }
-ent-FloorTileItemDirt = dirt tile
+ent-FloorTileItemDirt = клетка грязи
     .desc = { ent-FloorTileItemBase.desc }
     .suffix = { "" }
-ent-FloorTileItemBedrock = bedrock tile
+ent-FloorTileItemBedrock = клетка бедрока
     .desc = { ent-FloorTileItemBase.desc }
     .suffix = { "" }

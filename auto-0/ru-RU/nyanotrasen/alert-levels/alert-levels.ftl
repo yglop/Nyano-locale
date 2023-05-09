@@ -1,2 +1,2 @@
-alert-level-white = White
-alert-level-white-announcement = Glimmer levels on station are approaching dangerous levels. Turn off all glimmer probers. Seek psionic insulation. Psychics should report for mindbreaking or golemization. ROE on both is lifted.
+alert-level-white = Белый
+alert-level-white-announcement = Уровень Глиммера приближается к опасному уровню. Необходимо произвести отключение всех исследоватьльских зондов Глиммера. Ищите псионическую изоляцию. Псионики должны сообщать о случаях применения пси-сил и големизации. ROE on both is lifted.

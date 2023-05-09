@@ -1,1 +1,1 @@
-analyzer-artifact-component-upgrade-sacrifice = research points per glimmer
+analyzer-artifact-component-upgrade-sacrifice = исследовательских очков за глиммер

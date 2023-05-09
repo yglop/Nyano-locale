@@ -1,3 +1,3 @@
-ent-VehicleKeyPussyWagon = janicart keys
-    .desc = Interesting design.
+ent-VehicleKeyPussyWagon = ключи от машины уборщика
+    .desc = Интересный дизайн.
     .suffix = { "" }

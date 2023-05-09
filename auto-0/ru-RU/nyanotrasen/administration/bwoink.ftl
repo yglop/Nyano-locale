@@ -1,1 +1,1 @@
-bwoink-system-starmute-message-no-other-users-webhook = *System: Your message has been relayed to the admins via discord.
+bwoink-system-starmute-message-no-other-users-webhook = *Система: Ваше сообщение отослано админам в дискорд.

@@ -1,3 +1,3 @@
-ent-FoodMealFishChips = fish and chips
-    .desc = A dish that consists of fried fish and potatoes.
+ent-FoodMealFishChips = рыба и чипсы
+    .desc = Блюдо, которое состоит из жареной рыбы и картофеля.
     .suffix = { "" }

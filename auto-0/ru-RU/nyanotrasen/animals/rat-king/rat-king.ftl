@@ -1,4 +1,4 @@
-rat-king-toggle-faction-name = Toggle Rat Hostility
-rat-king-toggle-faction-description = Turn your rats hostile or neutral.
-rat-king-toggle-action-popup = Your rats will attack!
-rat-king-toggle-action-popup-enabled = Your rats will stand down.
+rat-king-toggle-faction-name = Переключить враждебность крыс
+rat-king-toggle-faction-description = Делает ваших крыс агрессивными или нейтральными.
+rat-king-toggle-action-popup = Ваши крысы будут атаковать!
+rat-king-toggle-action-popup-enabled = Ваши крысы будут стоять.

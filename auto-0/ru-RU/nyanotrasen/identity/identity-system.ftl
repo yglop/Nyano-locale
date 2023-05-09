@@ -1,1 +1,1 @@
-identity-presumed-name-outed = { $trueName } (as { $presumedName })
+identity-presumed-name-outed = { $trueName } (как { $presumedName })

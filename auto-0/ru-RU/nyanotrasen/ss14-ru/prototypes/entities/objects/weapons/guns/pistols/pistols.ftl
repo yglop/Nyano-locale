@@ -1,3 +1,3 @@
-ent-WeaponPistolHandmade = handmade pistol
-    .desc = Looks unreliable. Uses .35 auto ammo.
+ent-WeaponPistolHandmade = кустарный пистолет
+    .desc = Выглядит ненадежным. Использует патрон .35 auto.
     .suffix = { "" }

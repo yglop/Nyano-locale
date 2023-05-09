@@ -1,1 +1,1 @@
-stamina-tired-heavy = You're too tired for a heavy attack!
+stamina-tired-heavy = Вы слишком устали для сильной атаки!

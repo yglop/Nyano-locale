@@ -1,2 +1,2 @@
-hud-chatbox-select-channel-Telepathic = Telepathic
-hud-chatbox-channel-Telepathic = Telepathic
+hud-chatbox-select-channel-Telepathic = Телепатический
+hud-chatbox-channel-Telepathic = Телепатический

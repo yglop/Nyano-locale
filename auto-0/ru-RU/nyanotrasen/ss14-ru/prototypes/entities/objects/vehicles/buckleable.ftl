@@ -1,6 +1,6 @@
-ent-VehiclePussyWagon = janicart
-    .desc = The janitor's trusty steed.
+ent-VehiclePussyWagon = машина уборщика
+    .desc = Верный конь уборщика.
     .suffix = { "" }
-ent-VehiclePussyWagonDestroyed = destroyed janicart
+ent-VehiclePussyWagonDestroyed = сломанная машина уборщика
     .desc = R.I.P. (Rest In Pussy)
     .suffix = { "" }

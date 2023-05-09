@@ -1,3 +1,3 @@
-ent-DrinkCarafe = pitcher
-    .desc = A handled glass pitcher.
+ent-DrinkCarafe = кувшин
+    .desc = Стеклянный кувшин с ручкой.
     .suffix = { "" }

@@ -1,1 +1,1 @@
-welder-component-cant-refill-when-lit = Are you seriously trying to refuel while your welder is lit?
+welder-component-cant-refill-when-lit = Вы серьезно пытаетесь заправить включенный сварочный аппарат?

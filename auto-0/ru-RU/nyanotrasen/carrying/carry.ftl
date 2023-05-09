@@ -1,2 +1,2 @@
-carry-verb = Carry
-carry-too-heavy = You're not strong enough.
+carry-verb = Взять на руки
+carry-too-heavy = Вам не хватает сил.

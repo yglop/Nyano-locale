@@ -1,36 +1,36 @@
-deep-fryer-blacklist-item-failed = { CAPITALIZE(THE($item)) } fails to be covered in oil.
-deep-fryer-oil-purity-low = { CAPITALIZE(THE($deepFryer)) } sputters to no effect.
-deep-fryer-oil-volume-low = { CAPITALIZE(THE($deepFryer)) } burns and spews smoke!
-deep-fryer-oil-no-slag = There's no slag to drain.
-deep-fryer-storage-full = All of the baskets are full.
-deep-fryer-storage-no-fit = { CAPITALIZE(THE($item)) } won't fit inside one of the baskets.
-deep-fryer-interact-using-not-item = That doesn't seem to be an item.
-deep-fryer-need-liquid-container-in-hand = You need to first hold a liquid container like a beaker or bowl in your active hand.
-deep-fryer-thrown-missed = Missed!
-deep-fryer-thrown-hit-oil = Plop!
-deep-fryer-thrown-hit-oil-low = Plonk!
-deep-fryer-entity-escape = { CAPITALIZE(THE($victim)) } leaps out of { THE($deepFryer) }!
+deep-fryer-blacklist-item-failed = { CAPITALIZE(($item)) } не покрывается маслом.
+deep-fryer-oil-purity-low = { CAPITALIZE(($deepFryer)) } брызгает безрезультатно.
+deep-fryer-oil-volume-low = { CAPITALIZE(($deepFryer)) } горит и дымит!
+deep-fryer-oil-no-slag = Нет шлака для сушки.
+deep-fryer-storage-full = Все корзины полны.
+deep-fryer-storage-no-fit = { CAPITALIZE(($item)) } не помещается ни в одну из корзин.
+deep-fryer-interact-using-not-item = Это не похоже на предмет.
+deep-fryer-need-liquid-container-in-hand = Сначала вам нужно взять емкость для жидкости, такую как стакан или миску, в активную руку.
+deep-fryer-thrown-missed = Мимо!
+deep-fryer-thrown-hit-oil = Шлеп!
+deep-fryer-thrown-hit-oil-low = Плонк!
+deep-fryer-entity-escape = { CAPITALIZE(($victim)) } выпрыгивает из { ($deepFryer) }!
 
 ## DeepFryer UI
 
-deep-fryer-window-title = Deep Fryer
-deep-fryer-label-baskets = Baskets
-deep-fryer-label-oil-level = Oil Level
-deep-fryer-label-oil-purity = Oil Purity
-deep-fryer-button-insert-item = Insert Item
-deep-fryer-button-insert-item-tooltip = Place your held item into one of the deep fryer baskets.
-deep-fryer-button-scoop-vat = Scoop Vat
-deep-fryer-button-scoop-vat-tooltip = Scoop out some liquid from the oil vat. You need to hold a liquid container for this.
-deep-fryer-button-clear-slag = Clear Slag
-deep-fryer-button-clear-slag-tooltip = Clear out some waste from the oil vat. You need to hold a liquid container for this.
-deep-fryer-button-remove-all-items = Remove All Items
-deep-fryer-button-remove-all-items-tooltip = Remove all of the items from the deep fryer baskets at once.
+deep-fryer-window-title = Фритюрница
+deep-fryer-label-baskets = Корзины
+deep-fryer-label-oil-level = Уровень масла
+deep-fryer-label-oil-purity = Чистота масла
+deep-fryer-button-insert-item = Вставить предмет
+deep-fryer-button-insert-item-tooltip = Поместите предмет в одну из корзин для фритюрницы.
+deep-fryer-button-scoop-vat = Черпак
+deep-fryer-button-scoop-vat-tooltip = Вычерпайте немного жидкости из масляного бака. Для этого вам нужно держать емкость для жидкости.
+deep-fryer-button-clear-slag = Очистить шлак
+deep-fryer-button-clear-slag-tooltip = Удалите часть отходов из масляного бака. Для этого нужно держать емкость для жидкости.
+deep-fryer-button-remove-all-items = Вынуть все элементы
+deep-fryer-button-remove-all-items-tooltip = Выньте сразу все предметы из корзин фритюрницы.
 
 ## DeepFriedComponent
 
-deep-fried-crispy-item = crispy { $entity }
-deep-fried-crispy-item-examine = It's covered in a crispy, oily texture.
-deep-fried-fried-item = deep-fried { $entity }
-deep-fried-fried-item-examine = It's covered in a thick, crispy layer.
-deep-fried-burned-item = burned { $entity }
-deep-fried-burned-item-examine = It's blackened with char.
+deep-fried-crispy-item = хрустящий { $entity }
+deep-fried-crispy-item-examine = Он покрыт хрустящим маслянистым слоем.
+deep-fried-fried-item = сильно прожаренный { $entity }
+deep-fried-fried-item-examine = Он покрыт толстым хрустящим слоем.
+deep-fried-burned-item = { $entity } сгорел
+deep-fried-burned-item-examine = Он обуглился.

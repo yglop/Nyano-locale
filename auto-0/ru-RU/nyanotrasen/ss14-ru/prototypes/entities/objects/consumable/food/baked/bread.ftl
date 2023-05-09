@@ -1,3 +1,3 @@
-ent-FoodBigBreadPlain = big bread
-    .desc = A lot of plain old earthen bread.
+ent-FoodBigBreadPlain = большой хлеб
+    .desc = Много обычного земляного хлеба.
     .suffix = { "" }

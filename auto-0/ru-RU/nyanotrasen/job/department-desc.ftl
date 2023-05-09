@@ -1,2 +1,2 @@
-department-Epistemics-description = Discover what lies beyond the fabric of reality.
-department-Silicon-description = Follow your laws in service to the humans.
+department-Epistemics-description = Узнайте, что находится за пределами ткани реальности.
+department-Silicon-description = Следуйте своим законам в служении людям.

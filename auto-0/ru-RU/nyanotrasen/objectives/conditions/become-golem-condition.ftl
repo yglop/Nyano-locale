@@ -1,2 +1,2 @@
-objective-condition-become-golem-title = Get golemized
-objective-condition-become-golem-description = We'd like to understand more of the golemization process. Become a golem, survive, and we'll debrief you.
+objective-condition-become-golem-title = Големизироваться
+objective-condition-become-golem-description = Мы хотели бы больше узнать о процессе големизации. Стань големом, выживи, а мы тебя расспросим.

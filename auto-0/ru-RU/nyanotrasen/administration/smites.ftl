@@ -1,1 +1,1 @@
-admin-smite-clown-description = Clowns them. The suit cannot be removed.
+admin-smite-clown-description = Клунирует. Одежда клуни не может быть снята.

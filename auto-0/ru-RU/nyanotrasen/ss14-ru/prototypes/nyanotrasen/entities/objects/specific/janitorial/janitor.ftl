@@ -1,6 +1,6 @@
-ent-MopAdvanced = advanced mop
-    .desc = The next generation of mopping.
+ent-MopAdvanced = продвинутая швабра
+    .desc = Следующее поколение швабр.
     .suffix = { "" }
-ent-TrashBagOfHolding = trash bag of holding
-    .desc = A bluespace-infused trashbag with an extremely high capacity.
+ent-TrashBagOfHolding = блюспейс мусорный мешок
+    .desc = Мешок блюспейс мешок для мусора с чрезвычайно большой вместимостью.
     .suffix = { "" }

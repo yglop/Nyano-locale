@@ -1,6 +1,6 @@
-ent-CrystalNormality = normality crystal
-    .desc = It looks... normal. Placeholder sprite.
+ent-CrystalNormality = кристалл нормальности
+    .desc = Он выглядит... нормальным.
     .suffix = { "" }
-ent-CrystalSoul = soul crystal
-    .desc = Contains a soul. Placeholder sprite.
+ent-CrystalSoul = кристалл души
+    .desc = Содержит душу.
     .suffix = { "" }

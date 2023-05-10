@@ -1,3 +1,3 @@
-ent-Lockbox = lockbox
-    .desc = A lockbox secured by an access reader.
+ent-Lockbox = сейф
+    .desc = Сейф защищенный считывателем доступа.
     .suffix = { "" }

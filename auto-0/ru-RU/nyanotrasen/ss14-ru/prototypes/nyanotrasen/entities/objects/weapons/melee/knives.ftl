@@ -1,3 +1,3 @@
-ent-AntiPsychicKnife = anti-psychic knife
-    .desc = A special knife designed for killing psychics.
+ent-AntiPsychicKnife = противо-псионический нож
+    .desc = Специальный нож, предназначенный для убийства псиоников.
     .suffix = { "" }

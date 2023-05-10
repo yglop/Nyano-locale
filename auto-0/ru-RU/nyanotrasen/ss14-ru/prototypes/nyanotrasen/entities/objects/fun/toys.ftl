@@ -1,3 +1,3 @@
-ent-PlushieMoff = moth plushie
-    .desc = A cute little moff you can hold in the palm of your hand!
+ent-PlushieMoff = плюшевая моль
+    .desc = Симпатичная маленькая мофф, которую можно держать в ладони!
     .suffix = { "" }

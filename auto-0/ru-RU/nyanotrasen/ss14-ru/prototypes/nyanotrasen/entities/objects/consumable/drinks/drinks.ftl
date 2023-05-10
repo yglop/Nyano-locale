@@ -1,3 +1,3 @@
-ent-DrinkTokkuri = tokkuri
-    .desc = Floral and full of osake!
+ent-DrinkTokkuri = саке
+    .desc = Цветочный и полный осаки!
     .suffix = { "" }

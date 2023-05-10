@@ -1,6 +1,6 @@
-ent-MobOniBase = Base oni
+ent-MobOniBase = Базовый они
     .desc = { ent-BaseMobHuman.desc }
     .suffix = { "" }
 ent-MobOniDummy = Oni Dummy
-    .desc = A dummy oni meant to be used in character setup.
+    .desc = Манекен они, предназначенный для использования в настройке персонажа.
     .suffix = { "" }

@@ -1,3 +1,3 @@
-ent-MobPibble = pitbull
-    .desc = Nanny dog. Or a lab mix depending on who is asking.
+ent-MobPibble = питбуль
+    .desc = Собака-няня. Или лабораторная смесь, в зависимости от того, кто спрашивает.
     .suffix = { "" }

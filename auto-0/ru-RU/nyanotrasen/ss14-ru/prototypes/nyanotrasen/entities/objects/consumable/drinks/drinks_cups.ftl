@@ -1,3 +1,3 @@
-ent-DrinkSakeCup = sakazuki
-    .desc = A ceremonial white cup for drinking sake.
+ent-DrinkSakeCup = сакадзуки
+    .desc = Церемониальная белая чаша для питья саке.
     .suffix = { "" }

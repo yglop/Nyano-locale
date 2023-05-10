@@ -1,3 +1,3 @@
-ent-MobGlimmerWisp = glimmer wisp
-    .desc = A strange orb that moves with intent.
+ent-MobGlimmerWisp = пучок глиммера
+    .desc = Странный шар, который движется с каким-то намерением.
     .suffix = { "" }

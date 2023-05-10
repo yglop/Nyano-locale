@@ -1,6 +1,6 @@
-ent-BaseMobMoth = Base Moth
+ent-BaseMobMoth = Базовая моль
     .desc = { ent-BaseMobHuman.desc }
     .suffix = { "" }
 ent-MobMothDummy = Moth Dummy
-    .desc = A dummy moth meant to be used in character setup.
+    .desc = Манекен мотылька, предназначенный для использования в настройке персонажа.
     .suffix = { "" }

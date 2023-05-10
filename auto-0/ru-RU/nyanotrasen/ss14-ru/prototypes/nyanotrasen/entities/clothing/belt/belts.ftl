@@ -1,3 +1,3 @@
-ent-ClothingBeltMantis = forensic mantis' belt
-    .desc = Perfect for storing all of your forensic equipment.
+ent-ClothingBeltMantis = пояс детектива
+    .desc = Идеально подходит для хранения всего вашего криминалистического оборудования.
     .suffix = { "" }

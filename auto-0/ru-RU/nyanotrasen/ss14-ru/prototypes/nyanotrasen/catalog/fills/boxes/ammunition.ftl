@@ -1,3 +1,3 @@
-ent-BoxShellSoulbreaker = box of soulbreaker cartridges
-    .desc = A box full of anti-psionic soulbreaker cartridges, designed for riot shotguns.
+ent-BoxShellSoulbreaker = коробка патронов душегуба
+    .desc = Коробка, полная антипсионических патронов для дробовика.
     .suffix = { "" }

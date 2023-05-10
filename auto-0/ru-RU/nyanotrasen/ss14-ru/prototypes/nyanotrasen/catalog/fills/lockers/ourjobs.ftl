@@ -1,9 +1,9 @@
-ent-LockerMystagogueFilled = mystagogue's locker
-    .suffix = Filled
+ent-LockerMystagogueFilled = шкафчик мистагога
+    .suffix = Заполненый
     .desc = { ent-LockerResearchDirector.desc }
-ent-LockerEpistemicsFilled = acolyte's locker
-    .suffix = Filled
+ent-LockerEpistemicsFilled = шкафчик аколита
+    .suffix = Заполненый
     .desc = { ent-LockerScientist.desc }
 ent-LockerForensicMantisFilled = { ent-LockerForensicMantis }
-    .suffix = Filled
+    .suffix = Заполненый
     .desc = { ent-LockerForensicMantis.desc }

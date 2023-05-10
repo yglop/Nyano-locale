@@ -1,6 +1,6 @@
 ent-Rickenbacker4003Instrument = Rickenbacker
-    .desc = Just a regular bass guitar.
+    .desc = Обычная бас-гитара.
     .suffix = { "" }
 ent-Rickenbacker4001Instrument = Rickenbacker
-    .desc = It's the climax!
-    .suffix = Antag
+    .desc = это кульминация!
+    .suffix = Антаг

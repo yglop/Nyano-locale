@@ -1,9 +1,9 @@
-ent-DrinkSakeBottleFull = sake bottle
+ent-DrinkSakeBottleFull = бутылка саке
     .desc =
-        Clear, or sometimes foggy 
-        Chilled like ice cream alcohol 
-        Fill a cup, drink up!
+        Прозрачный, иногда туманный
+        Охлажденный, как мороженный алкоголь 
+        Наполни чашку и пей!
     .suffix = { "" }
-ent-DrinkSojuBottleFull = soju bottle
-    .desc = It's like sake but if you're trying to get FUCKED. UP.
+ent-DrinkSojuBottleFull = бутылка соджу
+    .desc = Это как сакэ, но если ты пытаешься проебаться.
     .suffix = { "" }

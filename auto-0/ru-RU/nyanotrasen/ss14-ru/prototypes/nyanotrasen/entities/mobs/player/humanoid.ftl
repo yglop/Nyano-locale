@@ -1,6 +1,6 @@
-ent-MobHumanFugitive = Fugitive
+ent-MobHumanFugitive = Беглец
     .desc = { ent-MobHuman.desc }
     .suffix = { "" }
-ent-MobEvilTwinSpawn = evil twin
+ent-MobEvilTwinSpawn = злой близнец
     .desc = { ent-MarkerBase.desc }
     .suffix = { "" }

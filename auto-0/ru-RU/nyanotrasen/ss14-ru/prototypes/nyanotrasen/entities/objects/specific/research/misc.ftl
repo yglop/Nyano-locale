@@ -1,6 +1,6 @@
-ent-PonderingOrbTelepathic = telepathic relay orb
-    .desc = Repeats whatever is being said in telepathic chat.
+ent-PonderingOrbTelepathic = сфера телепатической передачи
+    .desc = Повторяет все, что было сказано телепатически.
     .suffix = { "" }
-ent-PonderingOrbTelepathicHOS = orb of compromise
-    .desc = Ceremonially gifted long ago to quell fears of a telepath uprising.
+ent-PonderingOrbTelepathicHOS = сфера компромисса
+    .desc = Церемониально подарен давным-давно, чтобы подавить страх перед восстанием телепатов.
     .suffix = { "" }

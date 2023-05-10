@@ -1,9 +1,9 @@
-ent-LockerMystagogue = mystagogue's locker
-    .suffix = Empty
+ent-LockerMystagogue = шкафчик мистагога
+    .suffix = Пуст
     .desc = { ent-LockerResearchDirector.desc }
-ent-LockerEpistemics = acolyte's locker
-    .suffix = Empty
+ent-LockerEpistemics = шкафчик аколита
+    .suffix = Пуст
     .desc = { ent-LockerScientist.desc }
-ent-LockerForensicMantis = forensic mantis' cabinet
-    .desc = You'll never know what's inside until you collapse the quantum superposition of all possible mysteries.
-    .suffix = Empty
+ent-LockerForensicMantis = шкафчик детектива
+    .desc = Вы никогда не узнаете, что внутри, пока не разрушите квантовую суперпозицию всех возможных тайн.
+    .suffix = Пуст

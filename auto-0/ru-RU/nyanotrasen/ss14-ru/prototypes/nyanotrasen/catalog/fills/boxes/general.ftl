@@ -1,3 +1,3 @@
-ent-BoxColoredLighttube = colored lighttube box
-    .desc = This box is shaped on the inside so that only light tubes and bulbs fit.
+ent-BoxColoredLighttube = коробка цветнах лампочек
+    .desc = Эта коробка имеет такую внутреннюю форму, что в нее помещаются только световые трубки и лампочки.
     .suffix = { "" }

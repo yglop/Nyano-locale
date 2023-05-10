@@ -1,3 +1,3 @@
-ent-ShellSoulbreaker = shell (.50 soulbreaker)
+ent-ShellSoulbreaker = патрон (.50 душегуб)
     .desc = { ent-BaseShellShotgun.desc }
     .suffix = { "" }

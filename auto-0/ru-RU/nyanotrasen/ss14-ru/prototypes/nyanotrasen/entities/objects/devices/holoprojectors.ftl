@@ -1,3 +1,3 @@
-ent-HoloprojectorEngineering = engineering holoprojector
-    .desc = Displays a warning sign.
+ent-HoloprojectorEngineering = инженерный голопроектор
+    .desc = Отображает предупреждающий знак.
     .suffix = { "" }

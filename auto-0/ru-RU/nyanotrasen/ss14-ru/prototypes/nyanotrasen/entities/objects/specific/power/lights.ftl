@@ -1,3 +1,3 @@
-ent-BlueLightTube = blue light tube
-    .desc = A medium power high energy bulb that reminds you of space. May contain mercury.
+ent-BlueLightTube = синяя лампочка-трубка
+    .desc = Высокоэнергетическая лампа средней мощности которая напоминает вам о космосе. Может содержать ртуть.
     .suffix = { "" }

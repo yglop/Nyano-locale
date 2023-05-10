@@ -1,6 +1,6 @@
-ent-MobIfritFamiliar = Ifrit
-    .desc = The mystagogue's servant.
+ent-MobIfritFamiliar = Ифрит
+    .desc = Слуга мистагога.
     .suffix = { "" }
-ent-WelderIfrit = ifrit hand
-    .desc = The welding hand of an ifrit.
+ent-WelderIfrit = рука ифрита
+    .desc = Сварочная рука ифрита.
     .suffix = { "" }

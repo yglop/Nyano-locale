@@ -1,6 +1,6 @@
-ent-BaseNyanotrasenPersonalAI = personal ai device
-    .desc = Your electronic pal who's fun to be with!
+ent-BaseNyanotrasenPersonalAI = персональный ИИ
+    .desc = Ваш электронный приятель, с которым весело!
     .suffix = { "" }
-ent-SupersynthNyanotrasenPersonalAI = personal ai device (supersynth)
-    .desc = Your electronic pal who's fun to be with! New and improved audio playback system included.
+ent-SupersynthNyanotrasenPersonalAI = персональный ИИ (суперсинтезатор)
+    .desc = Твой электронный приятель, с которым весело! Включена новая и улучшенная система воспроизведения звука.
     .suffix = { "" }

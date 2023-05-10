@@ -1,3 +1,3 @@
-ent-Hairball = hairball
-    .desc = Felinids, man... Placeholder sprite.
+ent-Hairball = комок шерсти
+    .desc = Феллиниды, чувак...
     .suffix = { "" }

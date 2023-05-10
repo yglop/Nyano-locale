@@ -1,3 +1,3 @@
-ent-ClothingOuterVestValet = valet vest
-    .desc = A goofy red vest almost certainly designed with the sole purpose of being demeaning.
+ent-ClothingOuterVestValet = желет сервисника
+    .desc = Бестолковый красный жилет, почти наверняка созданный с единственной целью — унижение носящего.
     .suffix = { "" }

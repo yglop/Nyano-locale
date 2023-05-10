@@ -1,3 +1,3 @@
-ent-MobMoth = Player moth
+ent-MobMoth = Игрок моль
     .desc = { ent-BaseMobMoth.desc }
     .suffix = { "" }

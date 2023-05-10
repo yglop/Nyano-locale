@@ -1,3 +1,3 @@
-ent-ShipyardComputerCircuitboard = shipyard computer board
-    .desc = A computer printed circuit board for a shipyard computer.
+ent-ShipyardComputerCircuitboard = плата консоли верфи
+    .desc = Компьютерная плата для консоли верфи.
     .suffix = { "" }

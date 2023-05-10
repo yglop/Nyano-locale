@@ -1,9 +1,9 @@
-ent-FoodBakedCannabisBrownieBatch = special brownies
-    .desc = A pan of "special" brownies.
+ent-FoodBakedCannabisBrownieBatch = особые пирожные
+    .desc = Паддон «особых» пирожных.
     .suffix = { "" }
-ent-FoodBakedCannabisBrownie = special brownie
-    .desc = A "special" brownie.
+ent-FoodBakedCannabisBrownie = особый брауни
+    .desc = «Особый» брауни.
     .suffix = { "" }
-ent-FoodBreadMoldy = moldy loaf
-    .desc = It's still good enough to eat, just eat around the moldy bits.
+ent-FoodBreadMoldy = заплесневелый хлеб
+    .desc = Все еще пригоден в пищу, просто не ешьте плесень.
     .suffix = { "" }

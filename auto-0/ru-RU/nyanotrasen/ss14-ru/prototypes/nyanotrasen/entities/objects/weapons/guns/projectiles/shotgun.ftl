@@ -1,3 +1,3 @@
-ent-PelletShotgunSoulbreaker = pellet (.50 soulbreaker)
+ent-PelletShotgunSoulbreaker = гранула (.50 душегуб)
     .desc = { ent-BaseBulletPractice.desc }
     .suffix = { "" }

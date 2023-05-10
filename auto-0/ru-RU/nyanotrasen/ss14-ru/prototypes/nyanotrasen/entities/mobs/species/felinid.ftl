@@ -1,6 +1,6 @@
-ent-MobFelinidBase = Base felinid
+ent-MobFelinidBase = Базовый феллинид
     .desc = { ent-BaseMobHuman.desc }
     .suffix = { "" }
 ent-MobFelinidDummy = Felinid Dummy
-    .desc = A dummy felinid meant to be used in character setup.
+    .desc = Манекен фелинида, предназначенный для использования в настройке персонажа.
     .suffix = { "" }

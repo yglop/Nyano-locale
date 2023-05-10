@@ -1,4 +1,4 @@
-ent-BaseMail = mail
+ent-BaseMail = посылка
     .desc = { ent-BaseItem.desc }
     .suffix = { "" }
 ent-MailAdminFun = { ent-BaseMail }

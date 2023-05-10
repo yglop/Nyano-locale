@@ -1,6 +1,6 @@
-ent-FoodLollipop = lollipop
-    .desc = For being such a good sport.
+ent-FoodLollipop = леденец
+    .desc = За то, что ты такой спортивный.
     .suffix = { "" }
-ent-FoodGumball = gumball
-    .desc = For being such a good sport.
+ent-FoodGumball = жвательная резинка
+    .desc = За то, что ты такой спортивный.
     .suffix = { "" }

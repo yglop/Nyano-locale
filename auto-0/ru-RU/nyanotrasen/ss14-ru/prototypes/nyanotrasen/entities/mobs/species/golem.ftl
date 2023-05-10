@@ -1,9 +1,9 @@
-ent-MobGolemBase = golem
-    .desc = An artificial construct imitating life. This one has no soul installed yet.
+ent-MobGolemBase = голем
+    .desc = Искусственная конструкция, имитирующая жизнь. Этот пока без души.
     .suffix = { "" }
-ent-MobGolemCult = golem
+ent-MobGolemCult = голем
     .suffix = shell
     .desc = { ent-MobGolemBase.desc }
-ent-MobGolemWood = wood golem
-    .desc = An artificial construct imitating life. This one has no soul installed yet.
+ent-MobGolemWood = деревянный голем
+    .desc = Искусственная конструкция, имитирующая жизнь. Этот пока без души.
     .suffix = { "" }

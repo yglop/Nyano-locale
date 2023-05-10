@@ -1,3 +1,3 @@
-ent-ClothingOuterArmorGladiator = gladiator armor
-    .desc = A good old set of boiled leather armor fit with buckles, belts, and a decorated pauldron. Are you not entertained?
+ent-ClothingOuterArmorGladiator = броня гладиатора
+    .desc = Старый добрый комплект доспехов из дубленой кожи с пряжками, ремнями и украшенным наплечником. Тебе скучно?
     .suffix = { "" }

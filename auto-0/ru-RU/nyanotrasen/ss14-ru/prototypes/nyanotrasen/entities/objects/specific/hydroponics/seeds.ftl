@@ -1,3 +1,3 @@
-ent-KillerTomatoSeeds = packet of killer tomato seeds
-    .desc = Killer taste.
+ent-KillerTomatoSeeds = пакет семян помидоров-убийц
+    .desc = Убийственный вкус.
     .suffix = { "" }

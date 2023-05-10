@@ -1,3 +1,3 @@
-ent-CrateServiceReplacementColoredLights = Colored Lights Crate
+ent-CrateServiceReplacementColoredLights = ящик цветных лампочек
     .desc = { ent-CrateGenericSteel.desc }
     .suffix = { "" }

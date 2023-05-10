@@ -1,3 +1,3 @@
-ent-ClothingOuterCoatMantis = forensic mantis' jacket
-    .desc = Modeled after an ancient infantry uniform, this jacket may guard you against the unknown in your journey for the truth.
+ent-ClothingOuterCoatMantis = куртка детектива
+    .desc = Эта куртка, созданная по образцу древней пехотной униформы. Защитит вас от неизведанного в вашем путешествии за правдой .
     .suffix = { "" }

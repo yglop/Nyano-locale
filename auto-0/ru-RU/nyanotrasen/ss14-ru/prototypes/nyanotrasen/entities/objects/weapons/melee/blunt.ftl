@@ -1,3 +1,3 @@
-ent-Kanabou = kanabou
-    .desc = The classic oni weapon, for those that forgo subtlety.
+ent-Kanabou = канабу
+    .desc = Классическое они-оружие для тех, кто отказывается от утонченности.
     .suffix = { "" }

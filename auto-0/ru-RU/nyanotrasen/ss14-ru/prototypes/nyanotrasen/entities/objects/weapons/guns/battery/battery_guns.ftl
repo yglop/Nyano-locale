@@ -1,3 +1,3 @@
-ent-Decloner = decloner
-    .desc = A weapon that damages the target's genome, making it very hard to heal from
+ent-Decloner = деклонер
+    .desc = Оружие, которое повреждает геном цели, предотвращая возможность клонирования
     .suffix = { "" }

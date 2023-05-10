@@ -1,3 +1,3 @@
-ent-ClothingOuterSuitAreopagite = areopagite's suit
-    .desc = Quite the getup.
+ent-ClothingOuterSuitAreopagite = скафандр ареопагита
+    .desc = Неплохой стиль.
     .suffix = { "" }

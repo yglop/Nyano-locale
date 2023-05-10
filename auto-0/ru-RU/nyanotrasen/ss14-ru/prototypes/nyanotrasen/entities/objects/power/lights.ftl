@@ -1,9 +1,9 @@
-ent-ColoredLightTubeRed = red light tube
-    .desc = A colorful light tube. These emit a red hue.
+ent-ColoredLightTubeRed = красная лампочка-трубка
+    .desc = Красочная лампочка-трубка. Излучает красный свет.
     .suffix = { "" }
-ent-ColoredLightTubeFrostyBlue = blue light tube
-    .desc = A colorful light tube. These emit a frosty blue hue.
+ent-ColoredLightTubeFrostyBlue = синяя лампочка-трубка
+    .desc = Красочная лампочка-трубка. Излучает холодный синий свет.
     .suffix = { "" }
-ent-ColoredLightTubeBlackLight = black light tube
-    .desc = A colorful light tube. These emit "black light".
+ent-ColoredLightTubeBlackLight = чёрная лампочка-трубка
+    .desc = Красочная лампочка-трубка. Излучает "чёрный" цвет.
     .suffix = { "" }

@@ -1,3 +1,3 @@
-ent-BoltDecloner = decloner bolt
+ent-BoltDecloner = снаряд деклонера
     .desc = { ent-BaseBullet.desc }
     .suffix = { "" }

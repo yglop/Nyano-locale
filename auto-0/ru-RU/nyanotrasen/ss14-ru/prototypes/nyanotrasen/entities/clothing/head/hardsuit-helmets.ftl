@@ -1,3 +1,3 @@
-ent-ClothingHeadHelmetHardsuitSyndieReverseEngineered = SA-123 combat hardsuit helmet
-    .desc = An advanced hardsuit helmet designed for work in special operations.
+ent-ClothingHeadHelmetHardsuitSyndieReverseEngineered = SA-123 боевой шлем скафандра
+    .desc = Усовершенствованный шлем скафандра предназначеный для специальных операций.
     .suffix = { "" }

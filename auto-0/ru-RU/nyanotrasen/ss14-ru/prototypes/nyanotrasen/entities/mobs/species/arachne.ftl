@@ -1,6 +1,6 @@
-ent-MobArachneBase = Base Arachne
+ent-MobArachneBase = Базовый арахн
     .desc = { ent-BaseMobHuman.desc }
     .suffix = { "" }
 ent-MobArachneDummy = Arachne Dummy
-    .desc = A dummy arachne meant to be used in character setup.
+    .desc = Манекен арахна, предназначенный для использования в настройке персонажа..
     .suffix = { "" }

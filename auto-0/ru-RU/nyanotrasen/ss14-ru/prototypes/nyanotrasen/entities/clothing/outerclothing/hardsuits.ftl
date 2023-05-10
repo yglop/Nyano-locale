@@ -1,3 +1,3 @@
-ent-ClothingOuterHardsuitSyndieReverseEngineered = SA-122 combat hardsuit
-    .suffix = reverse-engineered
+ent-ClothingOuterHardsuitSyndieReverseEngineered = SA-122 боевой скафандр
+    .suffix = реконструированный
     .desc = { ent-ClothingOuterHardsuitSyndie.desc }

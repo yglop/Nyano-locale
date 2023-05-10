@@ -1,3 +1,3 @@
-ent-QSI = quantum spin inverter
-    .desc = When paired with another QSI, will teleport its activator to its bonded partner.
+ent-QSI = инвертор квантового спина
+    .desc = В паре с другим ИКС телепортирует свой активатор к связанному партнеру.
     .suffix = { "" }

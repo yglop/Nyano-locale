@@ -1,3 +1,3 @@
-ent-ShockCollar = shock collar
-    .desc = Shocking. Placeholder sprite.
+ent-ShockCollar = шоковый ошейник
+    .desc = Шокирующий.
     .suffix = { "" }

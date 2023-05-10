@@ -1,3 +1,3 @@
-ent-Ectoplasm = ectoplasm
-    .desc = The remains of a spirit.
+ent-Ectoplasm = эктоплазма
+    .desc = Остатки призрака.
     .suffix = { "" }

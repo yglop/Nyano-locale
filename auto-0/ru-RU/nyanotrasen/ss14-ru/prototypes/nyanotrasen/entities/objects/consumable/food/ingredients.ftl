@@ -1,3 +1,3 @@
-ent-FoodCannabisButter = stick of cannabis butter
-    .desc = Add this to your favorite baked goods for an irie time.
+ent-FoodCannabisButter = палочка конопляного масла
+    .desc = Добавьте это в свою любимую выпечку, чтобы весело провести время.
     .suffix = { "" }

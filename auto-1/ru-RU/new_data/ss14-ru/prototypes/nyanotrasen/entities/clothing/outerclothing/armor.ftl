@@ -1,3 +1,3 @@
-ent-ClothingOuterArmorKendoBogu = bogu
-    .desc = A set of armor used in Kendo. It covers the waist, torso, and hands.
+ent-ClothingOuterArmorKendoBogu = богу
+    .desc = Набор доспехов, используемых в кендо. Он покрывает талию, туловище и руки.
     .suffix = { "" }

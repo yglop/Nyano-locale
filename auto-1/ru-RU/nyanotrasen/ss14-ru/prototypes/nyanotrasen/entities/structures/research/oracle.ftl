@@ -1,3 +1,3 @@
-ent-Oracle = Oracle
-    .desc = It asks for items in exchange for knowledge. No one knows how it works.
+ent-Oracle = Оракул
+    .desc = Он просит вещи в обмен на знания. Никто не знает как это работает.
     .suffix = { "" }

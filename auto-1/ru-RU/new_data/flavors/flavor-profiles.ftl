@@ -1,38 +1,38 @@
-flavor-complex-miso = like miso
-flavor-complex-nuggie = like "chicken"
-flavor-complex-meatballs = like meatballs
-flavor-complex-nettles = like nettles
-flavor-complex-jungle = like jungle
-flavor-complex-vegetables = like vegetables
+flavor-complex-miso = как мисо
+flavor-complex-nuggie = как "курица"
+flavor-complex-meatballs = как котлеты
+flavor-complex-nettles = как крапива
+flavor-complex-jungle = как джунгли
+flavor-complex-vegetables = как овощи
 
 # use it when there multiple types of veggies
 
 
 ## Complex foodstuffs (cooked foods, joke flavors, etc)
 
-flavor-complex-bad-joke = like a bad joke
-flavor-complex-sadness = like sadness
-flavor-complex-hope = like hope
-flavor-complex-chaos = like chaos
-flavor-complex-squirming = like squirming
-flavor-complex-electrons = like electrons
-flavor-complex-parents = like someone's parents
+flavor-complex-bad-joke = как плохая шутка
+flavor-complex-sadness = как грусть
+flavor-complex-hope = как надежда
+flavor-complex-chaos = как хаос
+flavor-complex-squirming = как извивание
+flavor-complex-electrons = как электронника
+flavor-complex-parents = как чьи-то родители
 
 # Drink-specific flavors.
 
 
 ## Generic alcohol/soda taste. This should be replaced with an actual flavor profile.
 
-flavor-base-seeds = seeds
-flavor-complex-cotton = like cotton
-flavor-complex-vanilla = like vanilla
-flavor-complex-orangecreamcicle = like creamy, alcoholic orange juice
-flavor-complex-silverjack = like a rockstars dream
-flavor-complex-brainbomb = like liver damage
-flavor-complex-atomicpunch = like bittersweet radiation
-flavor-complex-circusjuice = extremely funny
-flavor-complex-pinkdrink = overwhelmingly like pink
-flavor-complex-sapopicante = like tomatoes and spices
-flavor-complex-graveyard = like a strong cold brew
-flavor-complex-bubbletea = like creamy sweetness
-flavor-complex-corncob = like a sick joke
+flavor-base-seeds = семена
+flavor-complex-cotton = как хлопок
+flavor-complex-vanilla = как ваниль
+flavor-complex-orangecreamcicle = как сливочный, алкогольный апельсиновый сок
+flavor-complex-silverjack = как мечта рок-звезды
+flavor-complex-brainbomb = как повреждение печени
+flavor-complex-atomicpunch = как горько-сладкоя радиация
+flavor-complex-circusjuice = очень смешно
+flavor-complex-pinkdrink = чрезвычайно розово
+flavor-complex-sapopicante = как помидоры и специи
+flavor-complex-graveyard = как крепкий холодный напиток
+flavor-complex-bubbletea = как сливочная сладость
+flavor-complex-corncob = как больная шутка

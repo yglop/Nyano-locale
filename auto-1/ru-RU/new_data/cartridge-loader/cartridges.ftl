@@ -1,1 +1,0 @@
-﻿default-program-name = Program

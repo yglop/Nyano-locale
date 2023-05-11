@@ -1,1 +1,0 @@
-﻿player-tab-username = Username

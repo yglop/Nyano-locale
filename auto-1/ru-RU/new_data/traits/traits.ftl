@@ -1,1 +1,0 @@
-﻿trait-blindness-name = Blindness

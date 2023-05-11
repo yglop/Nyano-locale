@@ -1,1 +1,0 @@
-info-link-github = GitHub

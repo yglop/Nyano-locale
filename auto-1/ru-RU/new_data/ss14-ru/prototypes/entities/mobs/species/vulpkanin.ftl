@@ -1,6 +1,6 @@
-ent-BaseMobHumanoidFox = Urist McFox
+ent-BaseMobHumanoidFox = Урист МакЛис
     .desc = { ent-BaseMobOrganic.desc }
     .suffix = { "" }
-ent-MobHumanoidFoxDummy = Urist McHands
-    .desc = A dummy vulpkanin meant to be used in character setup.
+ent-MobHumanoidFoxDummy = Урист МакЛис
+    .desc = Манекен вульпканина, предназначенный для использования в настройке персонажа.
     .suffix = { "" }

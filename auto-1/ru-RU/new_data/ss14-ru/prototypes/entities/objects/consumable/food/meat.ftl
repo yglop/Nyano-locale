@@ -1,3 +1,3 @@
-ent-FoodMeatPatty = meat patty
-    .desc = Flippin'.
+ent-FoodMeatPatty = мясная котлета
+    .desc = Перевернутая.
     .suffix = { "" }

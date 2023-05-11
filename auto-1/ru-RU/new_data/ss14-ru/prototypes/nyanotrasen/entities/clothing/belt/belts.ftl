@@ -1,3 +1,3 @@
-ent-ClothingBeltMartialBlack = black belt
-    .desc = This is the most martial of all the belts.
+ent-ClothingBeltMartialBlack = чёрный пояс
+    .desc = Это самый боевой из всех поясов.
     .suffix = { "" }

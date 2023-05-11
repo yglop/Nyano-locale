@@ -1,5 +1,5 @@
-roles-antag-fugitive-name = Fugitive
-roles-antag-fugitive-description = Survive. Escape.
-roles-antag-evil-twin-name = Evil twin
-roles-antag-evil-twin-description = Replace your twin.
-roles-antag-not-whitelisted = You need to be whitelisted to play antagonists.
+roles-antag-fugitive-name = Беглец
+roles-antag-fugitive-description = Выжить. Сбежать.
+roles-antag-evil-twin-name = Злой близнец
+roles-antag-evil-twin-description = Замени своего близнеца.
+roles-antag-not-whitelisted = Вы должны быть в вайтлисте, чтобы играть за антагониста.

@@ -1,5 +1,5 @@
-medibot-inject-verb = Autoinject
-medibot-cannot-inject = No suitable drug for this creature.
-medibot-target-invalid = Your autoinjector refuses this target.
-medibot-inject-receiver = { CAPITALIZE(THE($bot)) } is using { POSS-ADJ($bot) } autoinjector on you.
-medibot-inject-actor = You use your autoinjector on { THE($target) }.
+medibot-inject-verb = Автовведение
+medibot-cannot-inject = Нет подходящего лекарства для этого существа.
+medibot-target-invalid = Ваш автоинжектор отказывается работать на этой цели.
+medibot-inject-receiver = { CAPITALIZE(($bot)) } использует { POSS-ADJ($bot) } автоинъектор на тебе.
+medibot-inject-actor = Вы используете свой автоинжектор на { ($target) }.

@@ -1,1 +1,1 @@
-disease-sick-stomach = You feel like throwing up.
+disease-sick-stomach = Вы чувствуете, что вас тошнит.

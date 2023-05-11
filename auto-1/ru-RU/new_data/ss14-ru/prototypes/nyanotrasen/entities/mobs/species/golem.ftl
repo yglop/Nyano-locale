@@ -1,3 +1,3 @@
-ent-MobGolemSilver = silver golem
-    .desc = A fusion between soul and quantum machine, the epitome of epistemics.
+ent-MobGolemSilver = серебряный голем
+    .desc = Слияние души и квантовой машины, воплощение эпистемики.
     .suffix = { "" }

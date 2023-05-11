@@ -1,3 +1,3 @@
 ent-ClothingOuterWizardFake = магические робы
-    .desc =Набор синих роб.
+    .desc = Набор синих роб.
     .suffix = fake

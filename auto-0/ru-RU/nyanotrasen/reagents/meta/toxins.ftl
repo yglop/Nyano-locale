@@ -1,8 +1,8 @@
-reagent-name-prometheum = prometheum
-reagent-desc-prometheum = A complex superdrug our bodies could produce if we could only unlock our potential.
-reagent-name-soulbreaker-toxin = soulbreaker toxin
-reagent-desc-soulbreaker-toxin = An anti-psionic about 4 times as powerful as mindbreaker toxin.
-reagent-name-lotophagoi-oil = lotophagoi oil
-reagent-desc-lotophagoi-oil = A super potent drug that is much better at inducing psionics than normal hallucinogens, but with worse side effects.
-reagent-name-ectoplasm = ectoplasm
-reagent-desc-ectoplasm = The physical component of semi-corporeal spirits.
+reagent-name-prometheum = прометиум
+reagent-desc-prometheum = Сложное суперлекарство, которое наши тела могли бы производить, если бы мы могли раскрыть свой потенциал.
+reagent-name-soulbreaker-toxin = токсин душегуб
+reagent-desc-soulbreaker-toxin = Антипсионик примерно в 4 раза мощнее токсина майндбрейкера.
+reagent-name-lotophagoi-oil = лотофаговое масло
+reagent-desc-lotophagoi-oil = Сверхмощный препарат, который гораздо лучше вызывает псионику, чем обычные галлюциногены, но с более сильными побочными эффектами.
+reagent-name-ectoplasm = эктоплазма
+reagent-desc-ectoplasm = Физическая составляющая полу-телесных духов.

@@ -1,3 +1,3 @@
-ent-PosterLegitCornzza = Corncob Crust!
-    .desc = NEW Cornzza! Corn pizza, with a corncob crust that'll make you say 'why does this exist?'.
+ent-PosterLegitCornzza = Кукурузная корка!
+    .desc = НОВАЯ Корнза! Кукурузная пицца с корочкой из кукурузных початков, которая заставит вас сказать: «Почему это существует?».
     .suffix = { "" }

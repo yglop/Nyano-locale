@@ -1,9 +1,9 @@
-ent-ArachneWeb = web
-    .desc = A huge spider web.
+ent-ArachneWeb = паутина
+    .desc = Огромная паутина.
     .suffix = { "" }
-ent-CocoonedHumanoid = cocooned humanoid
-    .desc = Unlucky.
+ent-CocoonedHumanoid = кокон с гуманойдом
+    .desc = Неудачно получилось.
     .suffix = { "" }
-ent-CocoonSmall = cocoon
-    .desc = What could be inside...?
+ent-CocoonSmall = кокон
+    .desc = Что бы могло быть внутри...?
     .suffix = { "" }

@@ -1,3 +1,3 @@
-ent-PaintingMothBigCatch = Big Catch
-    .desc = Depicts a blue moth wearing a tophat who caught a relatively large space carp.
+ent-PaintingMothBigCatch = большой улов
+    .desc = Изображает голубую моль в цилиндре, поймавшего относительно большого космического карпа.
     .suffix = { "" }

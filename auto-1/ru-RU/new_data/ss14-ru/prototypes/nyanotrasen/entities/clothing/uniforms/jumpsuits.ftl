@@ -1,6 +1,6 @@
-ent-ClothingUniformJumpsuitGalaxyRed = red galaxy suit
-    .desc = Red lawsuit for those that conduct business on a galactic scale.
+ent-ClothingUniformJumpsuitGalaxyRed = красный галактический костюм
+    .desc = Красный костюм для тех, кто ведет бизнес в галактическом масштабе.
     .suffix = { "" }
-ent-ClothingUniformJumpsuitGalaxyBlue = blue galaxy suit
-    .desc = Blue lawsuit or those that conduct business on a galactic scale.
+ent-ClothingUniformJumpsuitGalaxyBlue = синий галактический костюм
+    .desc = Синий костюм для тех, кто ведет бизнес в галактическом масштабе.
     .suffix = { "" }

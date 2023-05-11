@@ -1,3 +1,3 @@
-ent-ClothingOuterWizardFake = wizard robes
-    .desc = A set of blue robes.
+ent-ClothingOuterWizardFake = магические робы
+    .desc =Набор синих роб.
     .suffix = fake

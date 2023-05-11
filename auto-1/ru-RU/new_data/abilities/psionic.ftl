@@ -1,2 +1,2 @@
-action-name-psychokinesis = Psychokinesis
-action-description-psychokinesis = Bend the fabric of space to instantly move across it.
+action-name-psychokinesis = Психокинез
+action-description-psychokinesis = Согните ткань пространства, для мгновенного перемещения по ней.

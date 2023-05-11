@@ -1,3 +1,3 @@
-ent-ClothingNeckSalvager = salvager's cloak
-    .desc = Worn by dangerous people who've deconstructed stations with ease.
+ent-ClothingNeckSalvager = плащ утилизатора
+    .desc = Носимый опасными людьми, которые с легкостью демонтировали станции.
     .suffix = { "" }

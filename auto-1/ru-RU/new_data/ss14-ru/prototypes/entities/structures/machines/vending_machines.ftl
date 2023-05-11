@@ -1,3 +1,3 @@
-ent-VendingMachinePride = Pride-O-Mat
-    .desc = A vending machine containing crimes.
+ent-VendingMachinePride = Прайд-О-Мат
+    .desc = Торговый автомат содержащий преступления.
     .suffix = { "" }

@@ -1,3 +1,3 @@
-ent-MetempsychoticMachine = metempsychotic machine
-    .desc = Speeds along the transmigration of a soul to its next vessel.
+ent-MetempsychoticMachine = машина метапсихики
+    .desc = Ускоряет перенос сознания в новое тело.
     .suffix = { "" }

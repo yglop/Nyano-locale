@@ -1,9 +1,9 @@
-ent-GlimmerProber = glimmer prober
-    .desc = Probes the noösphere to generate research points. Might be worth turning off if glimmer is a problem.
+ent-GlimmerProber = глиммер зонд
+    .desc = Сканирует ноосферу вырабатывая очки исследований. Возможно стоит отключить, если возникли проблемы с глиммером.
     .suffix = { "" }
-ent-GlimmerDrain = glimmer drain
-    .desc = Uses electricity to try and sort out the noösphere, reducing its level of entropy.
+ent-GlimmerDrain = добытчик глиммера
+    .desc = Использует электричество для воздействия на ноосферу, понижает уровень энтропии.
     .suffix = { "" }
-ent-GlimmerDeviceFrame = glimmer device frame
-    .desc = A frame for a glimmer drain or glimmer prober.
+ent-GlimmerDeviceFrame = рамма устройств глиммера
+    .desc = Рама под зонд или добытчик глиммера.
     .suffix = { "" }

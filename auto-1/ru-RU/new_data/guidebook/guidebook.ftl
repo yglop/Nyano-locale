@@ -1,2 +1,2 @@
-guidebook-expand-all = Expand all
-guidebook-collapse-all = Collapse all
+guidebook-expand-all = Расширить все
+guidebook-collapse-all = Свернуть все

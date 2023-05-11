@@ -1,3 +1,3 @@
-ent-SpawnMobFerret = Ferret Spawner
+ent-SpawnMobFerret = Спавнер хорька
     .desc = { ent-MarkerBase.desc }
     .suffix = { "" }

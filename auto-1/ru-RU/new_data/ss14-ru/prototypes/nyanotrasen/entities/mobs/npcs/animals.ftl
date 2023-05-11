@@ -1,3 +1,3 @@
-ent-MobFerretWhite = white ferret
+ent-MobFerretWhite = белый хорек
     .desc = { ent-MobFerret.desc }
     .suffix = { "" }

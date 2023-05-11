@@ -1,2 +1,2 @@
-death-gasp-borg = shudders violently for a moment before falling still, its eyes slowly darkening.
-borg-nosoul = This cyborg no longer has a soul and cannot be repaired.
+death-gasp-borg = на мгновение сильно вздрагивает, прежде чем замереть, его глаза медленно темнеют.
+borg-nosoul = У этого киборга больше нет души и его нельзя починить.

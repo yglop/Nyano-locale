@@ -1,2 +1,2 @@
-reagent-name-holywater = holy water
-reagent-desc-holywater = Water blessed by some otherworldly powers.
+reagent-name-holywater = святая вода
+reagent-desc-holywater = Вода, благословленная некими потусторонними силами.

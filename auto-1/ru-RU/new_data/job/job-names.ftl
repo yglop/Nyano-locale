@@ -1,2 +1,1 @@
-job-name-martialartist = martial artist
-# Role timers - Make these alphabetical or I cut you
+job-name-martialartist = мастер боевых искусств

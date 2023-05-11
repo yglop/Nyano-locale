@@ -1,3 +1,3 @@
-ent-MailTeleporter = mail teleporter
-    .desc = Teleports mail addressed to the crew of this station.
+ent-MailTeleporter = почтовый телепортер
+    .desc = Телепортирует почту для экипажа станции.
     .suffix = { "" }

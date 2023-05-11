@@ -1,3 +1,3 @@
-ent-BulletWaterShot = water
+ent-BulletWaterShot = вода
     .desc = { "" }
     .suffix = { "" }

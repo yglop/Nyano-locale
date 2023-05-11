@@ -1,3 +1,3 @@
-ent-BarSignWhiskeyEcho = Whiskey Echoes
-    .desc = Wew lad! Sit down and have a drink! No matter your affiliation, the slogan here is 'Death to sobriety!'
+ent-BarSignWhiskeyEcho = Виски Эхо
+    .desc = Эй, парень! Садись и выпей! Плевать на твою принадлежность, лозунг здесь «Смерть трезвости!».
     .suffix = { "" }

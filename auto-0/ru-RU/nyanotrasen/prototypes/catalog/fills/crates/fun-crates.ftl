@@ -1,2 +1,2 @@
-ent-CrateFunCrewmates = Crewmate crate
-    .desc = A set of five crewmates, impostors not included. Or are they?
+ent-CrateFunCrewmates = Ящик амонгов
+    .desc = Набор из пяти амогусов. Импостеры не включены, возможно.

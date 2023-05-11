@@ -1,6 +1,6 @@
-reagent-name-oil-ghee = ghee
-reagent-desc-oil-ghee = Thick and translucent.
-reagent-name-butter = butter
-reagent-desc-butter = Thick and creamy.
-reagent-name-motor-oil = motor oil
-reagent-desc-motor-oil = Keeps machines from squeaking.
+reagent-name-oil-ghee = топленое масло
+reagent-desc-oil-ghee = Густое и прозрачный.
+reagent-name-butter = масло
+reagent-desc-butter = Густое и сливочное.
+reagent-name-motor-oil = моторное масло
+reagent-desc-motor-oil = Защищает машины от скрипения.

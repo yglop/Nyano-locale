@@ -1,12 +1,12 @@
-ent-WallPlastitaniumDiagonal = plastitanium wall
+ent-WallPlastitaniumDiagonal = пластитановая стена
     .suffix = diagonal
     .desc = { ent-WallShuttleDiagonal.desc }
-ent-WallShuttleInterior = shuttle wall
+ent-WallShuttleInterior = стена шаттла
     .suffix = Interior
     .desc = { ent-WallSolid.desc }
-ent-WallSolidDiagonal = solid wall
+ent-WallSolidDiagonal = сплошная стена
     .suffix = diagonal
     .desc = { ent-WallShuttleDiagonal.desc }
-ent-WallPaper = paper wall
-    .desc = Helps to contain the repeated screams of martial artists.
+ent-WallPaper = бумажная стена
+    .desc = Помогает сдерживать постоянные крики мастеров боевых искусств.
     .suffix = { "" }

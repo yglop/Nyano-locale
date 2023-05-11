@@ -1,1 +1,1 @@
-job-description-martialartist = Be honorable and disciplined, spar in the dojo, challenge security to CQC.
+job-description-martialartist = Будь честным и дисциплинированным, сражайся в додзё, брось вызов СБ в ближнем бою.

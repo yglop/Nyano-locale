@@ -1,2 +1,2 @@
-pda-bound-user-interface-uplink-tab-title = Uplink
-pda-bound-user-interface-uplink-tab-description = Access your uplink
+pda-bound-user-interface-uplink-tab-title = Аплинк
+pda-bound-user-interface-uplink-tab-description = Доступ к вашему аплинку

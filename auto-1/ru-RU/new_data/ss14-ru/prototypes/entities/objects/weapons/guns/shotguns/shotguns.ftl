@@ -1,0 +1,12 @@
+ent-BaseWeaponShotgunNonLethal = { ent-BaseWeaponShotgun }
+    .suffix = Beanbag
+    .desc = { ent-BaseWeaponShotgun.desc }
+ent-WeaponShotgunDoubleBarreledNonLethal = double-barreled shotgun
+    .desc = An immortal classic. Uses .50 shotgun shells.
+    .suffix = { "" }
+ent-WeaponShotgunEnforcerNonLethal = Enforcer
+    .desc = A next-generation Frozen Star shotgun. Uses .50 shotgun shells.
+    .suffix = { "" }
+ent-WeaponShotgunKammererNonLethal = Kammerer
+    .desc = When an old Remington design meets modern materials, this is the result. A favourite weapon of militia forces throughout many worlds. Uses .50 shotgun shells.
+    .suffix = { "" }

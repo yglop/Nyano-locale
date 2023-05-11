@@ -1,0 +1,12 @@
+ent-WallPlastitaniumDiagonal = plastitanium wall
+    .suffix = diagonal
+    .desc = { ent-WallShuttleDiagonal.desc }
+ent-WallShuttleInterior = shuttle wall
+    .suffix = Interior
+    .desc = { ent-WallSolid.desc }
+ent-WallSolidDiagonal = solid wall
+    .suffix = diagonal
+    .desc = { ent-WallShuttleDiagonal.desc }
+ent-WallPaper = paper wall
+    .desc = Helps to contain the repeated screams of martial artists.
+    .suffix = { "" }

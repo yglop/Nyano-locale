@@ -1,0 +1,12 @@
+ent-ClothingHeadHelmetKendoMen = men
+    .desc = The quintessential head armor of the kendo practitioner.
+    .suffix = { "" }
+ent-ClothingHeadHatBeretCap = captain's beret
+    .desc = A blue beret with a captain's rank emblem. For captains that are more inclined towards style than safety.
+    .suffix = { "" }
+ent-ClothingHeadHatBeretCentcomm = CentCom beret
+    .desc = A green beret with an admiral's rank emblem.
+    .suffix = { "" }
+ent-ClothingHeadHatBeretMysta = mystagogue's beret
+    .desc = A purple beret with a blue epistemics emblem. Mystical and stylish.
+    .suffix = { "" }

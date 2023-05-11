@@ -1,0 +1,12 @@
+ent-PartSpider = часть тела паука
+    .desc = { ent-BaseItem.desc }
+    .suffix = { "" }
+ent-ThoraxSpider = торакс паука
+    .desc = { ent-PartSpider.desc }
+    .suffix = { "" }
+ent-RightLegSpider = правая нога паука
+    .desc = { ent-PartSpider.desc }
+    .suffix = { "" }
+ent-LeftLegSpider = левая нога паука
+    .desc = { ent-PartSpider.desc }
+    .suffix = { "" }

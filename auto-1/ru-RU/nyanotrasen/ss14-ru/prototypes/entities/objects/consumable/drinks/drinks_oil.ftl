@@ -1,0 +1,12 @@
+ent-BaseOilJar = { ent-DrinkBottleBaseFull }
+    .desc = { ent-DrinkBottleBaseFull.desc }
+    .suffix = { "" }
+ent-OilJarCorn = баночка кукурузного масла
+    .desc = Большая тонированная стеклянная банка с простой этикеткой в виде стебля кукурузы.
+    .suffix = { "" }
+ent-OilJarGhee = банка топленого масла
+    .desc = Большая тонированная стеклянная банка с простой этикеткой из-под масла.
+    .suffix = { "" }
+ent-OilJarOlive = банка оливкового масла
+    .desc = Большая тонированная стеклянная банка с простой этикеткой оливок.
+    .suffix = { "" }

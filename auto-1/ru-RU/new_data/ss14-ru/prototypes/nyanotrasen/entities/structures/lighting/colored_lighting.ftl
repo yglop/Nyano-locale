@@ -1,0 +1,12 @@
+ent-AlwaysPoweredlightColoredRed = { ent-AlwaysPoweredWallLight }
+    .desc = A light fixture. Draws power and produces light when equipped with a light tube.
+    .suffix = Always Powered, Red
+ent-AlwaysPoweredlightColoredFrostyBlue = { ent-AlwaysPoweredWallLight }
+    .desc = A light fixture. Draws power and produces light when equipped with a light tube.
+    .suffix = Always Powered, Frosty
+ent-AlwaysPoweredlightColoredBlack = { ent-AlwaysPoweredWallLight }
+    .desc = A light fixture. Draws power and produces light when equipped with a light tube.
+    .suffix = Always Powered, Black
+ent-AlwaysPoweredLightPostSmallRed = post light
+    .desc = A light fixture. Draws power and produces light when equipped with a light tube.
+    .suffix = Always Powered, Red

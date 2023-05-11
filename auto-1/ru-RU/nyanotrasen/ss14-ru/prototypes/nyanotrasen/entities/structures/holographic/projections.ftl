@@ -1,3 +1,3 @@
-ent-HolosignEng = engineering warning sign
-    .desc = What's the worst that could lie beyond?
+ent-HolosignEng = предупреждающая инженерная проекция
+    .desc = Какие опасности могут быть за ней?
     .suffix = { "" }

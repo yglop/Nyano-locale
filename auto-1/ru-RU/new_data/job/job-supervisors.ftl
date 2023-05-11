@@ -1,1 +1,1 @@
-job-supervisors-human = all humanoids
+job-supervisors-human = все человекоподобные

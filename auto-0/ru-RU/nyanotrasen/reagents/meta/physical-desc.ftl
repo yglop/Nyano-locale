@@ -1,1 +1,1 @@
-reagent-physical-desc-ethereal = ethereal
+reagent-physical-desc-ethereal = эфирный

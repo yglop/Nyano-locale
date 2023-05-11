@@ -1,9 +1,9 @@
-ent-SalvagePartsSpawnerLow = Salvage Parts Spawner
+ent-SalvagePartsSpawnerLow = Спавнер частей утилизации
     .suffix = Low
     .desc = { ent-MarkerBase.desc }
-ent-SalvagePartsSpawnerMid = Salvage Parts Spawner
+ent-SalvagePartsSpawnerMid = Спавнер частей утилизации
     .suffix = High
     .desc = { ent-MarkerBase.desc }
-ent-SalvagePartsSpawnerSubSpace = Salvage Parts Spawner
+ent-SalvagePartsSpawnerSubSpace = Спавнер частей утилизации
     .suffix = Subspace
     .desc = { ent-MarkerBase.desc }

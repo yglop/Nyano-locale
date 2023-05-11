@@ -1,3 +1,3 @@
-ent-SpawnMobGolemCult = golem shell spawner
+ent-SpawnMobGolemCult = точка появления голема
     .desc = { ent-MarkerBase.desc }
     .suffix = { "" }

@@ -1,2 +1,2 @@
-reagent-name-nausium = nausium
-reagent-desc-nausium = Sickening.
+reagent-name-nausium = тошнота
+reagent-desc-nausium = Тошнотворный.

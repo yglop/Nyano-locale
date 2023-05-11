@@ -1,3 +1,3 @@
-ent-ClothingShoesWizardFake = wizard shoes
-    .desc = A pair of sandals.
+ent-ClothingShoesWizardFake = обувь волшебника
+    .desc = Пара сандаль.
     .suffix = fake

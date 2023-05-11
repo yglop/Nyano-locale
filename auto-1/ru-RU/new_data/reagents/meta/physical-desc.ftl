@@ -1,1 +1,1 @@
-reagent-physical-desc-glittery = glittery
+reagent-physical-desc-glittery = блестящий

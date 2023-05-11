@@ -1,3 +1,3 @@
-ent-SignDojo = dojo sign
-    .desc = A sign indicating a place with discipline and tatami mats.
+ent-SignDojo = знак додзё
+    .desc = Знак, указывающий на место с дисциплиной и татами.
     .suffix = { "" }

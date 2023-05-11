@@ -1,3 +1,3 @@
-ent-WeaponSprayNozzle = spray nozzle
-    .desc = A high-powered spray nozzle used in conjunction with a backpack-mounted water tank.
+ent-WeaponSprayNozzle = форсунка
+    .desc = Мощная распылительная насадка, используемая в сочетании с наспинным баком для воды.
     .suffix = { "" }

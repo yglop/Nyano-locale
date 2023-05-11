@@ -1,2 +1,1 @@
-revenant-psionic-power = a spirit power
-#UI
+revenant-psionic-power = сила духа

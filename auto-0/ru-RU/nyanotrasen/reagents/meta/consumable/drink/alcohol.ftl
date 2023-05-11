@@ -1,1 +1,1 @@
-reagent-name-soju = soju
+reagent-name-soju = соджу

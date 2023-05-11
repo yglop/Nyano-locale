@@ -1,3 +1,3 @@
-survival-round-end-result = The crew had to survive for { $minutes } minutes.
-survival-success = [color=green]Success![/color]
-survival-failure = [color=red]Failure![/color] ({ $progress }%)
+survival-round-end-result = Экипаж должен был выжить { $minutes } минут.
+survival-success = [color=green]Успех![/color]
+survival-failure = [color=red]Неудача![/color] ({ $progress }%)

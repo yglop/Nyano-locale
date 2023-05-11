@@ -1,3 +1,3 @@
-ent-SpawnVehicleAntagVehicle = Antag Vehicle Spawner
+ent-SpawnVehicleAntagVehicle = Спавнер секвея синдиката
     .desc = { ent-MarkerBase.desc }
     .suffix = { "" }

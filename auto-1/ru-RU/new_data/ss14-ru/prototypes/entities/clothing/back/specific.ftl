@@ -1,3 +1,3 @@
-ent-ClothingBackpackWaterTank = backpack water tank
-    .desc = Holds a large amount of fluids. Supplies to spray nozzles in your hands.
+ent-ClothingBackpackWaterTank = наспинный водяной бак
+    .desc = Вмещает большое количество жидкости. Предназначен для распылителей в ваших руках.
     .suffix = { "" }

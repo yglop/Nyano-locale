@@ -1,3 +1,3 @@
-ent-TimerFrame = timer frame
-    .desc = A construction frame for a timer.
+ent-TimerFrame = каркас таймера
+    .desc = Коркас для таймера.
     .suffix = { "" }

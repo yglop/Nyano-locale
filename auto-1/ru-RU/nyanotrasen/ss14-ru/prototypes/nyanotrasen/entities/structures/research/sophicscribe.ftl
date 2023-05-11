@@ -1,3 +1,3 @@
-ent-SophicScribe = sophic grammateus
-    .desc = Latest reports on the Noösphere! Placeholder sprite.
+ent-SophicScribe = Софик Грамматикус
+    .desc = Последние новости о ноосфере!
     .suffix = { "" }

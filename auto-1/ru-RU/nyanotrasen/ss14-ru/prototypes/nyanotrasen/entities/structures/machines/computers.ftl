@@ -1,3 +1,3 @@
-ent-ComputerShipyard = shipyard console
-    .desc = Used to purchase and sell shuttles
+ent-ComputerShipyard = консоль космических доков
+    .desc = Используется для покупки и продажи шаттлов
     .suffix = { "" }

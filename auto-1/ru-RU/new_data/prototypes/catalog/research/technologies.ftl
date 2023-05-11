@@ -1,6 +1,6 @@
-technologies-advanced-spray-technology = Advanced spray technology
-technologies-advanced-spray-technology-description = The newest ways to hose down the station. Filthy animals.
-technologies-bluespace-technology = Bluespace technology
-technologies-bluespace-technology-description = Extradimensional storage.
-technologies-teleportation-technology = Teleportation technology
-technologies-teleportation-technology-description = The ability to move matter instantly from one place to another.
+technologies-advanced-spray-technology = Продвинутая технология распыления
+technologies-advanced-spray-technology-description = Новейшие способы мытья станции.
+technologies-bluespace-technology = Блюспейс технология
+technologies-bluespace-technology-description = Внепространственное хранилище.
+technologies-teleportation-technology = Технология телепортации
+technologies-teleportation-technology-description = Возможность мгновенно перемещать материю из одного места в другое.

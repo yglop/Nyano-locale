@@ -1,3 +1,3 @@
-ent-BoardGameSpawner = Board Game Spawner
+ent-BoardGameSpawner = Спавнер настольной игры
     .desc = { ent-MarkerBase.desc }
     .suffix = { "" }

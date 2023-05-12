@@ -1,0 +1,12 @@
+ent-FoodMothCapreseSalad = салат капрезе
+    .desc = Очень вкусный, но простой в приготовлении салат.
+    .suffix = { "" }
+ent-FoodMothFleetSalad = флотский салат
+    .desc = Жареный сыр делает блюдо особенно сытным, а гренки придают ему хрустящий вкус.
+    .suffix = { "" }
+ent-FoodMothCottonSalad = хлопковый салат
+    .desc = Салат с добавлением хлопка и простой заправкой. Предположительно мотыльки вокруг.
+    .suffix = { "" }
+ent-FoodMothKachumbariSalad = салат качумбари
+    .desc = {ent-FoodBowlBase.desc}
+    .suffix = { "" }

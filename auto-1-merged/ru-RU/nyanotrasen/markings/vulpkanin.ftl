@@ -1,0 +1,14 @@
+marking-PawSocks-pawsocks = Носки с лапками
+marking-PawSocks = Носки с лапками
+marking-FoxTail-vulp_tail = Лисий хвостик
+marking-FoxTail = Лисий хвостик
+marking-FoxEar-vulp_ear = Лисьи ушки (внешний)
+marking-FoxEar-vulp_ear_inner = Лисьи ушки (внутренний)
+marking-FoxEar = Лисьи ушки (внутренний)
+marking-WolfTail-wolf_tail = Волчий хвостик (стандартный)
+marking-WolfTail-wolf_tail_inner = Волчий хвостик (кончик)
+marking-WolfTail = Волчий хвостик (кончик)
+marking-FoxBelly-vulp_belly-torso = Лисий животик
+marking-FoxBelly = Лисий животик
+marking-FoxSnout-vulp_face = Лисья мордочка
+marking-FoxSnout = Лисья мордочка

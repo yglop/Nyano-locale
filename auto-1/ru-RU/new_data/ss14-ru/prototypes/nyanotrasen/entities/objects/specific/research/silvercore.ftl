@@ -1,3 +1,3 @@
-ent-CoreSilver = silver alloy core
-    .desc = Syntetic alloy made of silver and other materials.
+ent-CoreSilver = сердечник из серебряного сплава
+    .desc = Синтетический сплав из серебра и других материалов.
     .suffix = { "" }

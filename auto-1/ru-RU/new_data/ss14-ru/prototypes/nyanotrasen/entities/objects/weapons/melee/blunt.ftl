@@ -1,3 +1,3 @@
-ent-Shinai = shinai
-    .desc = A bamboo sword, commonly used in kendo. Made some time after the realization that wooden swords hurt a lot.
+ent-Shinai = синай
+    .desc = Бамбуковый меч, широко используемый в кендо. Сделано через некоторое время после осознания того, что деревянные мечи сильно бьют.
     .suffix = { "" }

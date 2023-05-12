@@ -1,3 +1,3 @@
-ent-RubberStampMantis = forensic mantis' seal
-    .desc = An old-fashioned seal for marking important documents, made of polished bronze.
+ent-RubberStampMantis = печать детектива
+    .desc = Старинная печать для важных документов, сделана из полированной бронзы.
     .suffix = { "" }

@@ -1,6 +1,7 @@
 ### how to use: ToDo
 
 arumoon_dir = './ru-RU/'
+old_arumoon_dir = '../../Resources/Locale/ru-RU/arumoon/'
 old_nyanotrasen_dir = '../../Resources/Locale/ru-RU/nyanotrasen/'
 new_nyanotrasen_dir = '../../Resources/Locale/en-US/'
 
@@ -11,6 +12,12 @@ arumoon_files = []
 for root, dirs, files in os.walk(arumoon_dir):
     for filename in files:
         arumoon_files.append(os.path.join(root, filename))
+
+# writes file dirs for aromoon locale
+arumoon_files_old = []
+for root, dirs, files in os.walk(arumoon_dir):
+    for filename in files:
+        arumoon_files_old.append(os.path.join(root, filename))
 
 # writes file dirs for translated nyano locale
 old_nyanotrasen_files = []
@@ -61,6 +68,14 @@ for _ in arumoon_files:
         for k, v in parsed_data.items():
             data_arumoon[k] = v
 
+# writes data to memory from nyano-aromoon locale
+data_arumoon_old = {}
+for _ in arumoon_files_old:
+    with open(_) as f:
+        parsed_data = parser(f)
+        for k, v in parsed_data.items():
+            data_arumoon_old[k] = v
+
 # writes data to memory from already translated nyano locale
 data_old_nya = {}
 for _ in old_nyanotrasen_files:
@@ -87,7 +102,7 @@ for _ in new_nyanotrasen_files:
 
         # writes folder & files in "./autotranslate/ru-RU/"
         for k in data_new_nya:
-            if k in data_arumoon:
+            if k in data_arumoon and (k not in data_arumoon_old):
                 data_new_nya[k] = data_arumoon[k]
                 if  not os.path.exists(base_dir + aru + work_dir):
                     os.makedirs(base_dir + aru + work_dir)

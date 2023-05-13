@@ -15,7 +15,7 @@ for root, dirs, files in os.walk(arumoon_dir):
 
 # writes file dirs for aromoon locale
 arumoon_files_old = []
-for root, dirs, files in os.walk(arumoon_dir):
+for root, dirs, files in os.walk(old_arumoon_dir):
     for filename in files:
         arumoon_files_old.append(os.path.join(root, filename))
 

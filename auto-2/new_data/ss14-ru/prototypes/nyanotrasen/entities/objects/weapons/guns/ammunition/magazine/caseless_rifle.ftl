@@ -1,0 +1,15 @@
+ent-BaseMagazineUniversalCaselessRifle = Universal magazine (.25 caseless)
+    .desc = { ent-BaseMagazineCaselessRifle.desc }
+    .suffix = { "" }
+ent-MagazineUniversalCaselessRifle = Universal magazine (.25 caseless)
+    .desc = { ent-BaseMagazineUniversalCaselessRifle.desc }
+    .suffix = { "" }
+ent-MagazineUniversalCaselessRifleHighVelocity = Universal magazine (.25 caseless high-velocity)
+    .desc = { ent-BaseMagazineUniversalCaselessRifle.desc }
+    .suffix = { "" }
+ent-MagazineUniversalCaselessRiflePractice = Universal magazine (.25 caseless practice)
+    .desc = { ent-BaseMagazineUniversalCaselessRifle.desc }
+    .suffix = { "" }
+ent-MagazineUniversalCaselessRifleRubber = Universal magazine (.25 caseless rubber)
+    .desc = { ent-BaseMagazineUniversalCaselessRifle.desc }
+    .suffix = { "" }

@@ -1,9 +1,9 @@
-ent-PlayerRobotBase = robot
+ent-PlayerRobotBase = робот
     .desc = { ent-PlayerSiliconBase.desc }
     .suffix = { "" }
-ent-PlayerRobotStandard = standard robot
+ent-PlayerRobotStandard = стандартный робот
     .desc = { ent-PlayerRobotBase.desc }
     .suffix = { "" }
-ent-PlayerRobotMedical = medical robot
+ent-PlayerRobotMedical = медицинский робот
     .desc = { ent-PlayerRobotBase.desc }
     .suffix = { "" }

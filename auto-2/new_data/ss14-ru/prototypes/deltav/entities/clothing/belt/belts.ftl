@@ -1,3 +1,3 @@
-ent-ClothingBeltCeremonial = ceremonial belt
-    .desc = A blue-and-white belt with assorted pockets and pouches.
+ent-ClothingBeltCeremonial = церемониальный пояс
+    .desc = Бело-голубой ремень с разнообразными карманами и мешочками.
     .suffix = { "" }

@@ -1,5 +1,5 @@
 ent-ClothingBeltKatanaSheath = ножны для катаны
-    .desc = An ornate belt designed to hold a pair of samurai's blades, or daisho.
+    .desc = Богато украшенный пояс, предназначенный для пары самурайских клинков или дайсё.
     .suffix = { "" }
 ent-ClothingBeltMilitaryWebbingCMO = разгрузка главного врача
     .desc = Медицинская разгрузка с глубокими карманами для использования парамедиками и медицинскими работниками.

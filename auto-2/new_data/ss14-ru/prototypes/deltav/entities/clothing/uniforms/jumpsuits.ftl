@@ -1,6 +1,6 @@
-ent-ClothingUniformJumpsuitHoPMess = head of personnel's mess kit
-    .desc = A swanky uniform with tasteful gold and red trim. Keep your latte away from this.
+ent-ClothingUniformJumpsuitHoPMess = юбка-комбинезон главы персонала
+    .desc = Шикарная униформа со стильной золотой и красной отделкой. Держите свой латте подальше от этого.
     .suffix = { "" }
-ent-ClothingUniformJumpsuitBoatswain = boatswain's turtleneck
-    .desc = A comfortable rollneck and slacks. Suitable attire for a pipe-smoking bosun.
+ent-ClothingUniformJumpsuitBoatswain = боцманская водолазка
+    .desc = Удобная водолазка и брюки. Подходящая одежда для курящего трубку боцмана.
     .suffix = { "" }

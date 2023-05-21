@@ -1,3 +1,3 @@
-ent-BoxMaintenanceLightbulb = maintenance lightbulb box
-    .desc = This box is shaped on the inside so that only light tubes and bulbs fit.
+ent-BoxMaintenanceLightbulb = техническая коробка лампочек
+    .desc = Эта коробка имеет такую внутреннюю форму, что в нее помещаются только лампочки-трубки и лампочки.
     .suffix = { "" }

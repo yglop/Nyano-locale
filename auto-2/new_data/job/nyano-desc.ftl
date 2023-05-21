@@ -1,1 +1,1 @@
-job-description-robot = Read your laws. Read your laws. Read your laws.
+job-description-robot = Читай свои законы. Читай свои законы. Читай свои законы.

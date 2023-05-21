@@ -1,9 +1,0 @@
-ent-ClothingHeadHelmetHardsuitSyndieReverseEngineered = SA-123 боевой шлем скафандра
-    .desc = Усовершенствованный шлем скафандра предназначеный для специальных операций.
-    .suffix = { "" }
-ent-ClothingHeadHelmetHardsuitJuggernautReverseEngineered = SA-127 боевой шлем скафандра
-    .desc = Штурмовой шлем из сверхсекретного полупрозрачного полимера.
-    .suffix = { "" }
-ent-ClothingHeadHelmetHardsuitERTCentcomm = шлем скафандра ЦентКом
-    .desc = { ent-ClothingHeadHelmetHardsuitERTLeader.desc }
-    .suffix = { "" }

@@ -1,6 +1,6 @@
-ent-ClothingHandsGlovesInspection = inspection gloves
-    .desc = A fancy pair of white gloves, both durable and delicate.
+ent-ClothingHandsGlovesInspection = инспекционные перчатки
+    .desc = Причудливая пара белых перчаток, одновременно прочных и тонких.
     .suffix = { "" }
-ent-ClothingHandsGlovesRyuzoGauntlets = golden gauntlets
-    .desc = Because sometimes, things just need to be based on your fists.
+ent-ClothingHandsGlovesRyuzoGauntlets = золотые рукавицы
+    .desc = Потому что иногда все должно основываться на ваших кулаках.
     .suffix = ADMIN ONLY, DO NOT MAP

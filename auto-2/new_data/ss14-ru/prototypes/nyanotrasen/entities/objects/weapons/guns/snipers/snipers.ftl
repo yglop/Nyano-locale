@@ -1,6 +1,6 @@
-ent-WeaponSniperGrand = mark 1 rifle
-    .desc = A heavy and reliable self-loading rifle, utilising a modified version of a centuries-old design. Uses .30 rifle ammo.
+ent-WeaponSniperGrand = винтовка Мк 1
+    .desc = Тяжелая и надежная самозарядная винтовка, в которой используется модифицированная версия многовековой конструкции. Использует патроны калибра .30 винтовочный.
     .suffix = { "" }
-ent-WeaponSniperCeremonial = ceremonial rifle
-    .desc = A ceremonial variant of the Mark 1 Rifle, in tasteful blue and white. Uses .30 rifle ammo.
+ent-WeaponSniperCeremonial = парадная винтовка
+    .desc = Парадный вариант винтовки Мк 1, выполненный со вкусом в бело-голубом цвете. Использует патроны калибра .30 винтовочный.
     .suffix = { "" }

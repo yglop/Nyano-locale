@@ -1,3 +1,3 @@
-job-name-robot = robot
-job-name-medical-robot = medical robot
-JobRobot = robot
+job-name-robot = робот
+job-name-medical-robot = медицинский робот
+JobRobot = робот

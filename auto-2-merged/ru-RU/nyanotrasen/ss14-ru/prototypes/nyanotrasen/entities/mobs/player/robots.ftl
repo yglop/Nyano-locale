@@ -1,0 +1,9 @@
+ent-PlayerRobotBase = робот
+    .desc = { ent-PlayerSiliconBase.desc }
+    .suffix = { "" }
+ent-PlayerRobotStandard = стандартный робот
+    .desc = { ent-PlayerRobotBase.desc }
+    .suffix = { "" }
+ent-PlayerRobotMedical = медицинский робот
+    .desc = { ent-PlayerRobotBase.desc }
+    .suffix = { "" }

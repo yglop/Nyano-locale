@@ -1,0 +1,9 @@
+ent-BookSalvageEpistemics = книга по эпистемологии
+    .desc = Книга в твердом металлическом переплете.
+    .suffix = { "" }
+ent-BookSalvageEpistemicsRandom = книга по эпистемологии
+    .desc = { ent-BookSalvageEpistemics.desc }
+    .suffix = { "" }
+ent-BookSalvageEpistemics1 = { ent-BookSalvageEpistemics }
+    .suffix = 1
+    .desc = { ent-BookSalvageEpistemics.desc }

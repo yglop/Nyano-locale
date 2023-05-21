@@ -1,0 +1,9 @@
+ent-tatamibase = { ent-BaseStructure }
+    .desc = { ent-BaseStructure.desc }
+    .suffix = { "" }
+ent-tatamisingle = площадь татами
+    .desc = Это татами, но квадрат.
+    .suffix = { "" }
+ent-tatamimat = татами мат
+    .desc = Это часть татами.
+    .suffix = { "" }

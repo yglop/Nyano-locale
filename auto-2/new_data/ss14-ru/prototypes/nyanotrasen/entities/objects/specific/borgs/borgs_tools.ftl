@@ -1,3 +1,3 @@
-ent-BorgHealthAnalyzer = medical robot health analyzer
-    .desc = A hand-held body scanner capable of distinguishing vital signs of the subject.
+ent-BorgHealthAnalyzer = анализатор здоровья медицинского робота
+    .desc = Ручной сканер тела, способный различать жизненные показатели субъекта.
     .suffix = { "" }

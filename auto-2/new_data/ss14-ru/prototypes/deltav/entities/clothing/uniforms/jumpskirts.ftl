@@ -1,3 +1,3 @@
-ent-ClothingUniformJumpskirtHoPMess = head of personnel's mess kit
-    .desc = A swanky uniform with tasteful gold and red trim. Keep your latte away from this.
+ent-ClothingUniformJumpskirtHoPMess = комбинезон главы персонала
+    .desc = Шикарная униформа со стильной золотой и красной отделкой. Держите свой латте подальше от этого.
     .suffix = { "" }

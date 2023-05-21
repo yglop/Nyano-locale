@@ -1,6 +1,6 @@
-ent-LightBulbMaintenance = incandescent light bulb
-    .desc = A dim light bulb.
+ent-LightBulbMaintenance = лампа накаливания
+    .desc = Тусклая лампочка.
     .suffix = Maintenance
-ent-LightBulbMaintenanceRed = incandescent light bulb
-    .desc = A dim light bulb. These emit a red hue.
+ent-LightBulbMaintenanceRed = красная лампа накаливания
+    .desc = Тусклая лампочка. Они излучают красный свет.
     .suffix = Maintenance, Red

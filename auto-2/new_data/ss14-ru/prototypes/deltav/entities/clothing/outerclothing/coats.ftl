@@ -1,6 +1,6 @@
-ent-ClothingOuterCoatRyuzo = Delphic coat
-    .desc = In another universe, The Syndicate are known as the good guys.
+ent-ClothingOuterCoatRyuzo = Загадочное пальто
+    .desc = В другой вселенной Синдикат известны как хорошие парени.
     .suffix = ADMIN ONLY, DO NOT MAP
-ent-ClothingOuterCoatHoPArmored = head of personnel's armored coat
-    .desc = A comfortable jacket that offers some protection against acts of god and man.
+ent-ClothingOuterCoatHoPArmored = бронепальто главы персонала
+    .desc = Удобная куртка, которая предлагает некоторую защиту от действий бога и человека.
     .suffix = { "" }

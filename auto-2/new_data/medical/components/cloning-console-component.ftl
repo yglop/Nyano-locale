@@ -1,1 +1,1 @@
-cloning-console-chat-no-genetics = ERROR: GENETIC ANALYSIS FAILED. BODY USES DIFFERENT SCHEMA OR NULL GENETICS.
+cloning-console-chat-no-genetics = ОШИБКА: ГЕНЕТИЧЕСКИЙ АНАЛИЗ ПРОВАЛЕН. ТЕЛО ИСПОЛЬЗУЕТ ДРУГУЮ СХЕМУ ИЛИ НУЛЕВУЮ ГЕНЕТИКУ.

@@ -1,3 +1,3 @@
-ent-Wakizashi = wakizashi
-    .desc = A short, multi-purpose sword of plasteel construction.
+ent-Wakizashi = вакидзаси
+    .desc = Короткий многоцелевой меч из пластали.
     .suffix = { "" }

@@ -1,3 +1,3 @@
-ent-HideMothroach = mothroach hide
-    .desc = A thin layer of mothroach hide.
+ent-HideMothroach = шкура таракана
+    .desc = Тонкий слой шкуры таракана.
     .suffix = { "" }

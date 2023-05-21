@@ -1,9 +1,0 @@
-ent-MobGolemBase = голем
-    .desc = Искусственная конструкция, имитирующая жизнь. Этот пока без души.
-    .suffix = { "" }
-ent-MobGolemCult = голем
-    .suffix = shell
-    .desc = { ent-MobGolemBase.desc }
-ent-MobGolemWood = деревянный голем
-    .desc = Искусственная конструкция, имитирующая жизнь. Этот пока без души.
-    .suffix = { "" }

@@ -1,9 +1,0 @@
-ent-FoodBakedCannabisBrownieBatch = особые пирожные
-    .desc = Паддон «особых» пирожных.
-    .suffix = { "" }
-ent-FoodBakedCannabisBrownie = особый брауни
-    .desc = «Особый» брауни.
-    .suffix = { "" }
-ent-FoodBreadMoldy = заплесневелый хлеб
-    .desc = Все еще пригоден в пищу, просто не ешьте плесень.
-    .suffix = { "" }

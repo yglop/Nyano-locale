@@ -1,9 +1,0 @@
-ent-FloorTileItemGrassDark = клетка тёмной травы
-    .desc = { ent-FloorTileItemBase.desc }
-    .suffix = { "" }
-ent-FloorTileItemGrassLight = клетка светлой травы
-    .desc = { ent-FloorTileItemBase.desc }
-    .suffix = { "" }
-ent-FloorTileItemDirt = клетка грязи
-    .desc = { ent-FloorTileItemBase.desc }
-    .suffix = { "" }

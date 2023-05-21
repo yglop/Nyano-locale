@@ -1,9 +1,0 @@
-ent-PlayerCyborgBase = киборг
-    .desc = { ent-PlayerSiliconBase.desc }
-    .suffix = { "" }
-ent-PlayerCyborgStandard = стандартный киборг
-    .desc = { ent-PlayerCyborgBase.desc }
-    .suffix = { "" }
-ent-PlayerCyborgMedical = медицинский киборг
-    .desc = { ent-PlayerCyborgBase.desc }
-    .suffix = { "" }

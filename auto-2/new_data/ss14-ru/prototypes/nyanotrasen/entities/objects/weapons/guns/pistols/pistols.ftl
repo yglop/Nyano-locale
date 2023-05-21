@@ -1,3 +1,3 @@
-ent-WeaponPistolUniversal = mk 32 "Universal"
-    .desc = An expensive and robust pistol with decent offensive capabilities. Uses .25 caseless ammo.
+ent-WeaponPistolUniversal = мк 32 "Универсальный"
+    .desc = Дорогой и робастный пистолет с приличными характеристиками. Использует патроны калибра .25 безгильзовые.
     .suffix = { "" }

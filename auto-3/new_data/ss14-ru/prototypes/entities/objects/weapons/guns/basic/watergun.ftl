@@ -1,9 +1,9 @@
 ent-WeaponWaterGunBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
     .suffix = { "" }
-ent-WeaponWaterPistol = water pistol
-    .desc = The dinkiest of water-based weaponry. You swear the trigger doesn't do anything.
+ent-WeaponWaterPistol = водяной пистолет
+    .desc = Самое изящное оружие на водной основе. Вы клянетесь, что спуск ничего не делает.
     .suffix = { "" }
-ent-WeaponWaterBlaster = water blaster
-    .desc = With this bad boy, you'll be the cooleste kid at the summer barbecue.
+ent-WeaponWaterBlaster = водяной бластер
+    .desc = С этим плохишом ты будешь самым крутым парнем на летнем барбекю.
     .suffix = { "" }

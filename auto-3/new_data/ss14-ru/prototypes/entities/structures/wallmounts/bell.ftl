@@ -1,3 +1,3 @@
-ent-BoxingBell = boxing bell
-    .desc = Ding ding!
+ent-BoxingBell = боксерский колокол
+    .desc = Динь дон!
     .suffix = { "" }

@@ -32,24 +32,24 @@ NyaStation — это сервер средней ролевой игры. По�
     - Слова, которые тесно связаны с оскорблениями в реальной жизни, [color=#ff0000]не допускаются[/color].
     - На станции, полной странных коллег-инопланетян, случайные комментарии могут быть терпимы. Не отыгрывайте «расистского» персонажа и не дискриминируйте кого-либо.
 
-[color=#a4885c]8.[/color] Your IC name must be realistic. Avoid joke names and names of fictional or real people, or names playing off of them (e.g. Saul Badman.)
-    - Roles like clown and mime are allowed stage names, which can be IC jokes but not OOC references.
-    - You can press the random name button in the character creator with a species selected to see what sort of names they have.
+[color=#a4885c]8.[/color] Имя вашего персонажа должно быть реалестичным. Избегайте шутливых имен и имен вымышленных или реальных людей, а также имён, играющих с ними (например, Гоян Раслинг)
+    - Для клоунов и мимов, разрешены имена, которые могут быть шутками IC, но не ссылками OOC.
+    - Вы можете нажать кнопку случайного имени в редакторе персонажей чтобы увидеть, какие у них имена. (пока-что имена не локализованны)
 
-[color=#a4885c]9.[/color] Cheating using external programs, multi-keying, alternate accounts, or exploiting to crash the server or gain a large mechanical advantage will all result in an appeal-only permanent ban.
-    - [color=#ff0000] Talking about the round with other players using an external program (e.g. Discord) is cheating. [/color] It's called metacommunications and you should not do it here or in any other server.
+[color=#a4885c]9.[/color] Использование читов, сторонних программ, мультиаккаунтов, действия направленные на краш сервера или получения большого механического преимущества - все это приведет к перманентному бану.
+    - [color=#ff0000] Использование автокликера на химике разрешено, но нежелательно. [/color]
+    - [color=#ff0000] Разговор о раунде с другими игроками с помощью внешней программы (например, Discord) является нарушением. [/color] Это называется метакоммуникации, и вы не должны делать это ни здесь, ни на любом другом сервере.
 
-[color=#a4885c]10.[/color] There is no IC continuity between rounds. Feel free to befriend people between rounds, but don't make any decisions based on previous rounds.
-    - Do not give your metafriends all-access IDs, weapons, or other sensitive things that you wouldn't give to a stranger in the same context.
+[color=#a4885c]10.[/color] Все раунды никак между собой не взаимосвязаны. События в прошлом раунде не должны влиять на последующие. Не стесняйтесь дружить с людьми между раундами, но не принимайте никаких решений на основе предыдущих раундов.
+    - Не давайте своим мета-друзьям полный доступ, оружие, или другие вещи которые вы не дали-бы незнакомцу в текущей ситуации.
 
-[color=#a4885c]11.[/color] After cloning, metempsychosis or taking a ghost role, you [color=#ff0000]forget your previous life[/color].
-    - For ghost roles, this is absolute.
-    - There is a lot of leniency for people who have been revived as the same character, but the main idea is to not describe who or what killed you. You don't have to act like a total amnesiac otherwise.
-    - Don't act on anything you saw while ghosted.
+[color=#a4885c]11.[/color] После клонирования, метемпсихоза или взятия роли призрака, вы [color=#ff0000]забываете прошлую жизнь[/color].
+    - Для ролей призраков это абсолютно.
+    - Есть много снисходительности к людям, которые были возрождены как тот же персонаж, но главная идея состоит в том, чтобы не описывать, кто или что вас убило. Вам не нужно отыгрывать полную амнезию.
+    - Вы не помните ничего из того что видели будучи призраком.
 
-[color=#a4885c]12.[/color] Actions against AFK or SSD players are judged by the same standards as ones that are at their computer. You don't get a pass to grief them as a non-antag.
-    - You can secure their PDAs without being an antag: they should be given to another member of their department and returned if they come back.
-    - If you feel someone has been AFK for an exceedingly long time, you can ahelp to get them gracefully removed from the round.
+[color=#a4885c]12.[/color] Действия против игроков AFK или SSD оцениваются по тем же стандартам, что и действия с активными игнроками. Вы можете красть у них, будучи не-антагами, но не можете убивать их.
+    - Желательно что-бы вы обезопасили их КПК: отдав его другому члену их отдела и вернуть, если они вернутся.
 
 SECURITY RULES
 

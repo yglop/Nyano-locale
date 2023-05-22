@@ -1,37 +1,36 @@
-[color=#ff0000]You must be 17 or older to play. Users under 17 will be banned immediately.[/color]
+[color=#ff0000]Пожалуйста, используйте для общения русский язык[/color]
 
-[color=#ff0000]Speak English, please.[/color]
+[color=#fff4cc]Если у вас есть жалобы на игроков, вопросы по игре или сомнения в ваших действиях — пишите в "Админ Хелп" (F1)[/color]
 
-Delta-v is a Medium Roleplay server. Try to immerse yourself into your character. This includes doing your job and delegating tasks that are outside of that description.
-This is not to imply you just work all round; almost every job has more downtime than not. There's also wide variety of jobs that are completely downtime.
+[color=#fff4cc]Если вам, в течении раунда, не отвечают в "Админ Хелп" (F1) по поводу жалобы, пишите жалобу в дискорд[/color]
 
-[color=#a4885c]The[/color] [color=#ffd700]Golden[/color] [color=#a4885c]Rule.[/color] Admins can disregard any and all of these rules if they deem it in the best interest of the current round, server, and/or community at large. They will of course be held fully accountable for their actions if they exercise this privilege.
+NyaStation — это сервер средней ролевой игры. Постарайтесь погрузиться в своего персонажа. Это включает в себя выполнение своей работы и делегирование задач, выходящих за рамки должности.
+Это не значит что вы должны работать весь раунд; почти все отделы простаивают большую часть времени.
 
-[color=#a4885c]1.[/color] All of these rules apply as they are intended. Do not argue small wording or punctuation technicalities like we're in court.
+[color=#a4885c]1.[/color] Воспринимайте эти правила так, как они должны быть задуманы, а не так, как они написаны буквально. Обход правил также может быть запрещён на усмотрение Администрации.
 
-[color=#a4885c]2.[/color] Do not speak about out-of-character concepts in chat or radio. Use LOOC for that. Do not speak about in character concepts in LOOC. Use chat or for that.
-    - Using emote or LOOC to bypass IC chat restrictions is considered exploiting.
+[color=#a4885c]2.[/color] Не допускайте игровую информацию (IC) в неигровой чат (OOC). Например нельзя сообщать в OOC канале что вы умираете или кто-то является антагонистом.
 
-[color=#a4885c]3.[/color] As a non-antagonist, realize it's not your job to cause chaos.
-    - Breaking into departmentss with no one working them because you need something from them is okay, barring the armory unless there is a xeno invasion or similar.
-    - Do not sabotage atmos or power, or anything that would harm the station's ability to support life and job functions.
-    - Do not create anything that will cause unexpecting people to die, such as poison pills or hidden electrified grills.
-    - Don't interfere in other people's arrests.
-    - Petty crime is an IC issue. However, it's very much preferred you stick to unimportant roles like assistant if you're in that sort of mood.
+[color=#a4885c]3.[/color] Как не антагонист, поймите, что не ваша работа сеять хаос.
+    - Вламываться в отделы, где никто не работает, потому что вам что-то от них нужно, это нормально, за исключением оружейной, если нет вторжения ксено или чего-то подобного.
+    - Не саботируйте атмосферу или питание, или что-либо еще, что может повредить способности станции поддерживать жизненные и рабочие функции.
+    - Не создавайте ничего, что может привести к неожиданной смерти людей, таких как ядовитые пилюли или скрытые электрифицированные грили.
+    - Не вмешивайтесь в чужие аресты.
+    - Мелкие преступления - это вопрос IC. Тем не менее, если вам очень хочется похулиганить, старайтесь брать неважные роли, такие как ассистент.
 
-[color=#a4885c]4.[/color] Follow basic common sense -- act as a reasonable person would in your character's shoes.
-    - This isn't a deathmatch, be humane.
-    - What is considered a reasonable reason to escalate conflict is listed below under ESCALATION RULES and is at the discretion of admins.
-    - Ask admins for permission first before any actions that involve a large amount of players causing trouble, such as a revolution. Even as an antagonist you will be dragging non-antags into it.
+[color=#a4885c]4.[/color] Следуйте элементарному здравому смыслу — действуйте так, как поступил бы разумный человек на месте вашего персонажа.
+    - Это не бой насмерть, будь гуманным.
+    - То, что считается разумной причиной для эскалации конфликта, указано ниже в разделе ПРАВИЛА ЭСКАЛАЦИИ и остается на усмотрение администраторов.
+    - Спрашивайте разрешения у администраторов перед любыми действиями, в которых участвует большое количество игроков, вызывающих проблемы, например, перед революцией. Даже будучи антагонистом, вы будете втягивать в него не-антэгов.
+     
+[color=#a4885c]5.[/color] Эротический/Шок-контент/ERP [color=#ff0000]запрещен при любых обстоятельствах[/color].
 
-[color=#a4885c]5.[/color] Erotic Roleplay (ERP) is [color=#ff0000]not allowed under any circumstance[/color].
+[color=#a4885c]6.[/color] Неприемлимое поведение в OOC чатах. Например чрезмерная токсичность, унижения или дискриминации по какому-то признаку [color=#ff0000]запрещенно[/color].
 
-[color=#a4885c]6.[/color] Harassment of other players for OOC/meta reasons is [color=#ff0000]not allowed[/color].
-
-[color=#a4885c]7.[/color] Hate speech, slurs and bigotry are not allowed.
-	- Intentionally seeking to demean others due to their actual or perceived race, sex, gender, orientation or the like is not tolerated.
-	- Words that are closely tied to real life slurs are [color=#ff0000]not allowed[/color].
-    - In a station full of strange alien coworkers, the occasional comment may be tolerated. Do not roleplay a "racist" character or discriminate against anyone.
+[color=#a4885c]7.[/color] Разжигание ненависти, оскорбления и фанатизм не допускаются.
+    - Намеренное стремление унизить других из-за их реальной или игровой расы, пола, пола, ориентации и т.п. недопустимо.
+    - Слова, которые тесно связаны с оскорблениями в реальной жизни, [color=#ff0000]не допускаются[/color].
+    - На станции, полной странных коллег-инопланетян, случайные комментарии могут быть терпимы. Не отыгрывайте «расистского» персонажа и не дискриминируйте кого-либо.
 
 [color=#a4885c]8.[/color] Your IC name must be realistic. Avoid joke names and names of fictional or real people, or names playing off of them (e.g. Saul Badman.)
     - Roles like clown and mime are allowed stage names, which can be IC jokes but not OOC references.

@@ -1,6 +1,6 @@
-ent-HandheldHealthAnalyzerBorg = health analyzer
-    .desc = A hand-held body scanner that runs off of your own power cells, capable of distinguishing vital signs of the subject.
+ent-HandheldHealthAnalyzerBorg = анализатор здоровья
+    .desc = Ручной сканер тела, работающий от ваших собственных силовых ячеек, способный различать жизненные признаки субъекта.
     .suffix = { "" }
-ent-HandheldCrewMonitorBorg = handheld crew monitor
-    .desc = A hand-held crew monitor that runs off of your own power cells, which displays the status of the crew suit sensors.
+ent-HandheldCrewMonitorBorg = портативный монитор экипажа
+    .desc = Ручной монитор экипажа, который работает от ваших собственных силовых элементов и отображает состояние датчиков скафандра.
     .suffix = { "" }

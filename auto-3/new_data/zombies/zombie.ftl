@@ -1,1 +1,1 @@
-zombie-permadeath = This time, you're dead for real.
+zombie-permadeath = На этот раз ты мертв по-настоящему.

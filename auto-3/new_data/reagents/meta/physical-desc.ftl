@@ -1,1 +1,1 @@
-reagent-physical-desc-rocky = rocky
+reagent-physical-desc-rocky = каменистый

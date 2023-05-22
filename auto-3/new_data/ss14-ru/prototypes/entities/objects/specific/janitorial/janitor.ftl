@@ -1,3 +1,3 @@
-ent-WetFloorSignMineExplosive = wet floor sign
-    .desc = Caution! Wet Floor!
-    .suffix = Explosive
+ent-WetFloorSignMineExplosive = табличка мокрый пол
+    .desc = Осторожно! Мокрый пол!
+    .suffix = Взрывной

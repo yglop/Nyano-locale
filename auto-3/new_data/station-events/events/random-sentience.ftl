@@ -1,1 +1,1 @@
-station-event-random-sentience-flavor-slime = slime
+station-event-random-sentience-flavor-slime = слайм

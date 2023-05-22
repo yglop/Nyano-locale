@@ -1,3 +1,3 @@
-ent-MaterialSmileExtract = extract smile
-    .desc = It's a real panacea. But at what cost?
+ent-MaterialSmileExtract = экстракт слайма
+    .desc = Это настоящая панацея. Но какой ценой?
     .suffix = { "" }

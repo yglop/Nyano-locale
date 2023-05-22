@@ -1,0 +1,9 @@
+ent-ClothingOuterCoatLettermanBlue = blue letterman jacket
+    .desc = It's a blue highschool jacket with a big '14' stitched onto the back.
+    .suffix = { "" }
+ent-ClothingOuterCoatLettermanRed = red letterman jacket
+    .desc = It's a red highschool jacket with a big '14' stitched onto the back.
+    .suffix = { "" }
+ent-ClothingUniformTracksuitBlack = black tracksuit
+    .desc = A set of light athletic clothing.
+    .suffix = { "" }

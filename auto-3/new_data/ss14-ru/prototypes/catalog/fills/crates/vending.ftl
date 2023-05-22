@@ -1,0 +1,12 @@
+ent-CrateVendingMachineRestockGetmoreChocolateCorpFilled = { ent-CratePlastic }
+    .desc = { ent-CratePlastic.desc }
+    .suffix = { "" }
+ent-CrateVendingMachineRestockChangFilled = { ent-CratePlastic }
+    .desc = { ent-CratePlastic.desc }
+    .suffix = { "" }
+ent-CrateVendingMachineRestockDiscountDansFilled = { ent-CratePlastic }
+    .desc = { ent-CratePlastic.desc }
+    .suffix = { "" }
+ent-CrateVendingMachineRestockDonutFilled = { ent-CratePlastic }
+    .desc = { ent-CratePlastic.desc }
+    .suffix = { "" }

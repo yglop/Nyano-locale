@@ -1,0 +1,11 @@
+alert-level-unknown = Unknown.
+alert-level-unknown-instructions = Unknown.
+alert-level-green-instructions = Do your job.
+alert-level-blue-instructions = Crewmembers are advised to follow commands issued by any relevant authority.
+alert-level-red-instructions = Crewmembers should find a safe place to shelter in, and are advised to follow any present authorities.
+alert-level-violet-instructions = Crewmembers are advised to distance themselves from others and perform safety measures to prevent further spread.
+alert-level-white-instructions = Crewmembers are advised to seek psionic insulation. Psychics should report for mindbreaking or golemization.
+alert-level-yellow-instructions = Crewmembers are advised to stay away from the threat, and stay in their workplaces if necessary.
+alert-level-gamma-instructions = All civilians are to immediately seek their nearest head for transportation to a secure location.
+alert-level-delta-instructions = Crewmembers are advised to listen to heads of staff for more information.
+alert-level-epsilon-instructions = Consider all contracts terminated.

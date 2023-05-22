@@ -1,3 +1,3 @@
 ent-OrGate = MS7432
-    .desc = Dual 2-Input OR Gate
+    .desc = Двойной логический элемент ИЛИ с 2 входами
     .suffix = { "" }

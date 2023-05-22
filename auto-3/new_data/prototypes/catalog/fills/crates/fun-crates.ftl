@@ -1,2 +1,2 @@
-ent-CrateFunWaterGuns = Water Gun Crate
-    .desc = A summer special with a variety of brightly colored water guns. Water not included.
+ent-CrateFunWaterGuns = Ящик с водяным пистолетом
+    .desc = Специальное летнее предложение с множеством ярких водяных пистолетов. Вода не включена.

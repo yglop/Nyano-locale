@@ -1,3 +1,3 @@
 ent-NetworkConfigurator = network configurator
-    .desc = A tool for linking devices together. Has two modes, a list mode for mass linking devices and a linking mode for advanced device linking.
+    .desc = Инструмент для соединения устройств вместе. Имеет два режима: режим списка для массового связывания устройств и режим связывания для расширенного связывания устройств.
     .suffix = { "" }

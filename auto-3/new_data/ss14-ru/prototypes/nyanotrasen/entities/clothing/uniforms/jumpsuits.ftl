@@ -1,6 +1,6 @@
-ent-ClothingUniformJumpskirtMystagogue = mystagogue's turtleneck
-    .desc = It's a turtleneck worn by those with the holy aura to achieve the role of Mystagogue. You can practically feel the psychic energies radiating from this thing, not to mention the actual radiation.
+ent-ClothingUniformJumpskirtMystagogue = водолазка мистагога
+    .desc = Это водолазка, которую носят те, у кого есть священная аура, чтобы достичь роли Мистагога. Вы можете практически почувствовать излучаемую этой штукой психическую энергию, не говоря уже о самом излучении.
     .suffix = { "" }
-ent-ClothingUniformJumpsuitSecSummer = summer security uniform
-    .desc = A loose-fitting and casual variant of the standard security uniform.
+ent-ClothingUniformJumpsuitSecSummer = летняя форма охраны
+    .desc = Свободный и повседневный вариант стандартной формы службы безопасности.
     .suffix = { "" }

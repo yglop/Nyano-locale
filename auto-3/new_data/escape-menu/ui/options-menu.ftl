@@ -1,2 +1,2 @@
-ui-options-show-combat-mode-indicators = Show combat mode indicators with cursor?
-ui-options-function-editor-flip-object = Flip
+ui-options-show-combat-mode-indicators = Показывать индикаторы боевого режима курсором?
+ui-options-function-editor-flip-object = Кувырок

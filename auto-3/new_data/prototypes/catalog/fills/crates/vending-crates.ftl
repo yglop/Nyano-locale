@@ -1,8 +1,8 @@
-ent-CrateVendingMachineRestockGetmoreChocolateCorpFilled = Getmore Chocolate Corp restock crate
-    .desc = Contains a restock box for a Getmore Chocolate Corp dispenser.
-ent-CrateVendingMachineRestockChangFilled = Chang restock crate
-    .desc = Contains a restock box for a Mr. Chang dispenser.
-ent-CrateVendingMachineRestockDiscountDansFilled = Discount Dans restock crate
-    .desc = Contains a restock box for a Discount Dan's dispenser.
-ent-CrateVendingMachineRestockDonutFilled = Donut restock crate
-    .desc = Contains a restock box for a Monkin' Donuts dispenser.
+ent-CrateVendingMachineRestockGetmoreChocolateCorpFilled = ящик для пополнения запасов Гетмор Шоколад Корп
+    .desc = Содержит коробку пополнения для автомата Гетмор Шоколад Корп.
+ent-CrateVendingMachineRestockChangFilled = ящик для пополнения запасов Мистер Чанг
+    .desc = Содержит коробку пополнения для автомата Мистер Чанг.
+ent-CrateVendingMachineRestockDiscountDansFilled = ящик для пополнения запасов Дискаунтер дена
+    .desc = Содержит коробку пополнения для автомата Дискаунтер дена.
+ent-CrateVendingMachineRestockDonutFilled = ящик для пополнения запасов Пончик
+    .desc = Содержит коробку пополнения для автомата Пончик.

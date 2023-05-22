@@ -1,3 +1,2 @@
-uplink-proximity-mine-name = Proximity Mine
-uplink-proximity-mine-desc = A mine disguised as a wet floor sign.
-# Armor
+uplink-proximity-mine-name = Бесконтактная мина
+uplink-proximity-mine-desc = Мина, замаскированная под знак мокрого пола

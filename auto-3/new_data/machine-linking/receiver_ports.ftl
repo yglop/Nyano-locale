@@ -1,4 +1,4 @@
-signal-port-name-autoclose = Autoclose
-signal-port-description-autoclose = Toggles whether the device should automatically close.
-signal-port-name-doorbolt = Door bolt
-signal-port-description-doorbolt = Toggles door bolt.
+signal-port-name-autoclose = Автозакрытие
+signal-port-description-autoclose = Переключает, должно ли устройство автоматически закрываться.
+signal-port-name-doorbolt = Дверной болт
+signal-port-description-doorbolt = Переключает дверные болты.

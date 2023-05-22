@@ -1,1 +1,1 @@
-salvage-expedition-not-all-present = Not all salvagers are aboard the shuttle!
+salvage-expedition-not-all-present = Не все утилизаторы находятся на борту шаттла!

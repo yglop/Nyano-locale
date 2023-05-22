@@ -1,1 +1,1 @@
-apc-component-on-toggle-cancel = It does nothing!
+apc-component-on-toggle-cancel = Это ничего не делает.

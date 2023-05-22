@@ -1,4 +1,4 @@
-device-frequency-prototype-name-basic-device = Basic Devices
+device-frequency-prototype-name-basic-device = Основные устройства
 
 ## camera frequencies
 

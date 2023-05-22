@@ -1,3 +1,3 @@
-ent-ClothingUniformJumpsuitDeathSquad = Death squad uniform
-    .desc = Advanced armored jumpsuit used by special forces in special operations.
+ent-ClothingUniformJumpsuitDeathSquad = Униформа деда
+    .desc = Усовершенствованный бронированный комбинезон, используемый спецподразделениями в специальных операциях.
     .suffix = { "" }

@@ -1,2 +1,2 @@
-food-system-cant-digest = You can't digest { THE($entity) }!
-food-system-cant-digest-other = They can't digest { THE($entity) }!
+food-system-cant-digest = Вы не можете переварить { THE($entity) }!
+food-system-cant-digest-other = Они не могут переварить { THE($entity) }!

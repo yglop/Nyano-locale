@@ -1,1 +1,1 @@
-zombie-healing = You feel a stirring in your flesh
+zombie-healing = Вы чувствуете шевеление в своей плоти

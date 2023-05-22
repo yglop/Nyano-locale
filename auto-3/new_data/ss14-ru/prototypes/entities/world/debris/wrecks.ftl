@@ -1,12 +1,12 @@
-ent-BaseScrapDebris = Scrap Debris
+ent-BaseScrapDebris = Обломки лома
     .desc = { ent-BaseDebris.desc }
     .suffix = { "" }
-ent-ScrapDebrisSmall = Scrap Debris Small
+ent-ScrapDebrisSmall = Малые обломки лома
     .desc = { ent-BaseScrapDebris.desc }
     .suffix = { "" }
-ent-ScrapDebrisMedium = Scrap Debris Medium
+ent-ScrapDebrisMedium = Средние обломки лома
     .desc = { ent-BaseScrapDebris.desc }
     .suffix = { "" }
-ent-ScrapDebrisLarge = Scrap Debris Large
+ent-ScrapDebrisLarge = Большие обломки лома
     .desc = { ent-BaseScrapDebris.desc }
     .suffix = { "" }

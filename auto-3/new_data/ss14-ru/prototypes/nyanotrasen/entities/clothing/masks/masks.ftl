@@ -1,9 +1,9 @@
 ent-ClothingMaskOniBase = { ent-ClothingMaskPullableBase }
-    .desc = A mask depicting a ferocious creature from Japanese myth.
+    .desc = Маска с изображением свирепого существа из японского мифа.
     .suffix = { "" }
-ent-ClothingMaskOniBlue = blue oni mask
+ent-ClothingMaskOniBlue = синяя маска они
     .desc = { ent-ClothingMaskOniBase.desc }
     .suffix = { "" }
-ent-ClothingMaskOniRed = red oni mask
+ent-ClothingMaskOniRed = красная маска они
     .desc = { ent-ClothingMaskOniBase.desc }
     .suffix = { "" }

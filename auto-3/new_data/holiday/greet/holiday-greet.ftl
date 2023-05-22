@@ -1,1 +1,1 @@
-holiday-name-towel-day = Towel Day
+holiday-name-towel-day = День полотенца

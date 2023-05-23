@@ -5,4 +5,4 @@ entity-spawn-window-replace-button-text = Заменить
 entity-spawn-window-erase-button-text = Удаление
 entity-spawn-window-override-menu-tooltip = Переопределить размещение
 
-console-line-edit-placeholder = Команду сюда
+console-line-edit-placeholder = Введите сюда команду

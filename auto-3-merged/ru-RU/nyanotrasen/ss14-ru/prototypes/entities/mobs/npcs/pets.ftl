@@ -1,0 +1,9 @@
+ent-MobSpiderShiva = Shiva
+    .desc = The first defender of the station.
+    .suffix = { "" }
+ent-MobKangarooWillow = Willow
+    .desc = Willow, the boxing kangaroo.
+    .suffix = { "" }
+ent-MobSlimesPet = Smile
+    .desc = This masterpiece has gone through thousands of experiments. But it is the sweetest creature in the world. Smile Slime!
+    .suffix = { "" }

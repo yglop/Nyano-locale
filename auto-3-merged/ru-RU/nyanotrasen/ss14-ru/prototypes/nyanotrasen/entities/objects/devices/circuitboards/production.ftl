@@ -1,0 +1,15 @@
+ent-EngineeringTechFabCircuitboard = инженерный техфаб (машинная плата)
+    .desc = Машинная плата для инженерного техфаба
+    .suffix = { "" }
+ent-ServiceTechFabCircuitboard = сервисный техфаб (машинная плата)
+    .desc = Машинная плата для сервисного техфаба
+    .suffix = { "" }
+ent-ScienceTechFabCircuitboard = эпистемологический техфаб (машинная плата)
+    .desc = Машинная плата для эпистемологического техфаба
+    .suffix = { "" }
+ent-MetempsychoticMachineCircuitboard = метемпсихотическая машина (машинная плата)
+    .desc = Машинная плата для клонирователя
+    .suffix = { "" }
+ent-ReverseEngineeringMachineCircuitboard = машина обратной инженерии (машинная плата)
+    .desc = Машинная плата для машины обратной инженерии
+    .suffix = { "" }

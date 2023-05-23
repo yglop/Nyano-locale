@@ -1,0 +1,9 @@
+ent-ClothingOuterCoatLettermanBlue = blue letterman jacket
+    .desc = Это синяя школьная куртка с большой цифрой «14», вышитой на спине.
+    .suffix = { "" }
+ent-ClothingOuterCoatLettermanRed = red letterman jacket
+    .desc = Это красная школьная куртка с большой цифрой «14», вышитой на спине.
+    .suffix = { "" }
+ent-ClothingUniformTracksuitBlack = черный спортивный костюм
+    .desc = Комплект легкой спортивной одежды.
+    .suffix = { "" }

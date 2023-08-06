@@ -1,0 +1,12 @@
+ent-SuitStorageEVAAlternate = { ent-SuitStorageBase }
+    .suffix = EVA, Large Helmet
+    .desc = { ent-SuitStorageBase.desc }
+ent-SuitStorageEVAEmergency = { ent-SuitStorageBase }
+    .suffix = Emergency EVA
+    .desc = { ent-SuitStorageBase.desc }
+ent-SuitStorageNTSRA = { ent-SuitStorageBase }
+    .suffix = Ancient EVA
+    .desc = { ent-SuitStorageBase.desc }
+ent-SuitStorageBasic = { ent-SuitStorageBase }
+    .suffix = Basic Hardsuit
+    .desc = { ent-SuitStorageBase.desc }

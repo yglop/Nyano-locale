@@ -1,0 +1,9 @@
+ent-CableHVStack10 = { ent-CableHVStack }
+    .suffix = 10
+    .desc = { ent-CableHVStack.desc }
+ent-CableMVStack10 = { ent-CableMVStack }
+    .suffix = 10
+    .desc = { ent-CableMVStack.desc }
+ent-CableApcStack10 = { ent-CableApcStack }
+    .suffix = 10
+    .desc = { ent-CableApcStack.desc }

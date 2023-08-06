@@ -1,0 +1,9 @@
+ent-ClothingUniformJumpsuitExplorer = explorer's uniform
+    .desc = A rugged set of overalls for trekking across the stars.
+    .suffix = { "" }
+ent-ClothingOuterExplorerCoat = explorer's labcoat
+    .desc = Looks like it's seen its fair share of dusty trails.
+    .suffix = { "" }
+ent-ClothingUniformTShirtKhakiPants = drab t-shirt and khaki pants
+    .desc = Some drab but functional clothing.
+    .suffix = { "" }

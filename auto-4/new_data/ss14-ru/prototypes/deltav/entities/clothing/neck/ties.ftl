@@ -1,0 +1,15 @@
+ent-ClothingNeckTieWhite = white tie
+    .desc = An ivory-white tie.
+    .suffix = { "" }
+ent-ClothingNeckTieBlack = black tie
+    .desc = A charcoal-black tie.
+    .suffix = { "" }
+ent-ClothingNeckTieBrown = brown tie
+    .desc = A chocolate-brown tie.
+    .suffix = { "" }
+ent-ClothingNeckTieBlue = blue tie
+    .desc = A cerulean-blue tie.
+    .suffix = { "" }
+ent-ClothingNeckTieGreen = green tie
+    .desc = A grass-green tie.
+    .suffix = { "" }

@@ -1,0 +1,9 @@
+ent-Shiv = shiv
+    .desc = A crude weapon fashioned from  a piece of cloth and a glass shard.
+    .suffix = { "" }
+ent-ReinforcedShiv = reinforced shiv
+    .desc = A crude weapon fashioned from  a piece of cloth and a reinforced glass shard.
+    .suffix = { "" }
+ent-PlasmaShiv = plasma shiv
+    .desc = A crude weapon fashioned from  a piece of cloth and a plasma shard.
+    .suffix = { "" }

@@ -1,1 +1,1 @@
-ui-vote-map-notlobby = Voting for maps is only valid in the pre-round lobby!
+ui-vote-map-notlobby = Голосование за карты действует только в предраундовом лобби!

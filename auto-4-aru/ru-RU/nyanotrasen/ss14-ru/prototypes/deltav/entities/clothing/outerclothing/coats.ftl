@@ -1,0 +1,9 @@
+ent-ClothingOuterCoatOvercoat = overcoat
+    .desc = A warm, dark overcoat, suitable for formal occasions.
+    .suffix = { "" }
+ent-ClothingOuterCoatGreatcoat = greatcoat
+    .desc = A drab and rugged greatcoat, padded for protection against the elements.
+    .suffix = { "" }
+ent-ClothingOuterCoatLeatherJacket = leather jacket
+    .desc = A rugged leather jacket, for fashion or for utility.
+    .suffix = { "" }

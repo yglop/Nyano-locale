@@ -1,0 +1,12 @@
+ent-BaseBulletIncendiary = базовая зажигательная пуля
+    .desc = { ent-BaseBullet.desc }
+    .suffix = { "" }
+ent-BulletTaser = снаряд тазера
+    .desc = { ent-BaseBullet.desc }
+    .suffix = { "" }
+ent-BulletCharge = заряженный снаряд
+    .desc = Помечает цель для нанесения дополнительного урона.
+    .suffix = { "" }
+ent-GrapplingHook = цепляющий крюк
+    .desc = { "" }
+    .suffix = { "" }

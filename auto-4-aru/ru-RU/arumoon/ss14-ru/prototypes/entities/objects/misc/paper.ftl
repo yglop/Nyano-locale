@@ -1,0 +1,9 @@
+ent-PaperCargoBountyManifest = список задания
+    .desc = Бумажная этикетка, обозначающая, что ящик содержит требуемые предметы. Продав ящик с такой этикеткой, вы выполните задание.
+    .suffix = { "" }
+ent-RubberStampBase = обычная печать
+    .desc = Штемпель из резины для проставления печатей на важных документах.
+    .suffix = { "" }
+ent-RubberStampBaseAlt = альтернативный штамп
+    .desc = { ent-RubberStampBase.desc }
+    .suffix = { "" }

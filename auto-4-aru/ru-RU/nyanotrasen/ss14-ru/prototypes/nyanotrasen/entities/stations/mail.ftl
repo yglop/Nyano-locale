@@ -1,0 +1,3 @@
+ent-BaseStationMail = { "" }
+    .desc = { "" }
+    .suffix = { "" }

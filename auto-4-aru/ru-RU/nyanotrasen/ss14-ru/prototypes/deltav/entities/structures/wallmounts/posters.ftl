@@ -1,0 +1,3 @@
+ent-PosterLegitFuckAround = Fuck Around...
+    .desc = ...and find out. Sponsored by the Intergalactic Bartenders' Federation, Delta branch.
+    .suffix = { "" }

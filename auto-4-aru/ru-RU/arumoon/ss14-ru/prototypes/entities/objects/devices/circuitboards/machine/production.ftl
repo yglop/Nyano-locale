@@ -1,0 +1,15 @@
+ent-ResearchAndDevelopmentServerMachineCircuitboard = сервер РнД (машинная плата)
+    .desc = Печатная плата сервера РнД.
+    .suffix = { "" }
+ent-CellRechargerCircuitboard = зарядник для батарей (машинная плата)
+    .desc = Печатная плата зарядника для батарей.
+    .suffix = { "" }
+ent-WeaponCapacitorRechargerCircuitboard = зарядник
+    .desc = Печатная плата зарядника.
+    .suffix = { "" }
+ent-CargoTelepadMachineCircuitboard = грузовой телепад (машинная плата)
+    .desc = Печатная плата грузового телепада.
+    .suffix = { "" }
+ent-SalvageMagnetMachineCircuitboard = магнит обломков (машинная плата)
+    .desc = Печатная плата магнита обломков.
+    .suffix = { "" }

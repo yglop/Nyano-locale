@@ -1,1 +1,1 @@
-wieldable-component-requires = { CAPITALIZE(THE($item)) } must be wielded!
+wieldable-component-requires = { CAPITALIZE(($item)) } должен быть в руках!

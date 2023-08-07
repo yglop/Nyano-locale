@@ -1,2 +1,2 @@
-trait-uncloneable-name = Uncloneable
-trait-uncloneable-desc = Cannot be cloned
+trait-uncloneable-name = Неклонируемый
+trait-uncloneable-desc = Нельзя клонировать

@@ -1,2 +1,2 @@
-action-name-show-station-records-console = Station Records Interface
-action-description-show-station-records-console = View a station records Interface
+action-name-show-station-records-console = Интерфейс записей станции
+action-description-show-station-records-console = Посмотреть интерфейс записей станции

@@ -1,2 +1,2 @@
-artifact-trigger-hint-regular-gases = Standard atmospheric gases
-artifact-trigger-hint-plasma = Gaseous plasma
+artifact-trigger-hint-regular-gases = Стандартные атмосферные газы
+artifact-trigger-hint-plasma = Газовая плазма

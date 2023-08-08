@@ -1,12 +1,12 @@
-ent-UnaffiliatedIDCard = unaffiliated ID card
-    .desc = A card displaying a name and other identifying details.
+ent-UnaffiliatedIDCard = неаффилированная ID карта
+    .desc = Карточка с именем и другими идентификационными данными.
     .suffix = { "" }
-ent-ExplorerIDCard = explorer ID card
+ent-ExplorerIDCard = ID исследователя
     .desc = { ent-UnaffiliatedIDCard.desc }
     .suffix = { "" }
-ent-StudentIDCard = student ID card
+ent-StudentIDCard = ID карта студента
     .desc = { ent-UnaffiliatedIDCard.desc }
     .suffix = { "" }
-ent-FreelancerIDCard = freelancer ID card
+ent-FreelancerIDCard = ID карта фрилансера
     .desc = { ent-UnaffiliatedIDCard.desc }
     .suffix = { "" }

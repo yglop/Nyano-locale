@@ -1,2 +1,2 @@
-action-name-show-laws = Show Laws
-action-description-show-laws = Display a list of your robotic laws.
+action-name-show-laws = Показать законы
+action-description-show-laws = Показать список ваших роботизированных законов.

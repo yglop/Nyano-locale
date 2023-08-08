@@ -1,3 +1,3 @@
-ent-TrashBagHolding = trash bag of holding
-    .desc = A bluespace-infused trashbag with an extremely high capacity.
+ent-TrashBagHolding = блюспейс мусорный мешок
+    .desc = Блюспейс мешок для мусора с чрезвычайно большой вместимостью.
     .suffix = { "" }

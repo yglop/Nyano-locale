@@ -1,6 +1,6 @@
-ent-RandomHumanoidSpawnerMobster = mobster
+ent-RandomHumanoidSpawnerMobster = мафиози
     .desc = { "" }
     .suffix = { "" }
-ent-RandomHumanoidSpawnerMobsterAlt = mobster
+ent-RandomHumanoidSpawnerMobsterAlt = мафиози
     .suffix = alt
     .desc = { "" }

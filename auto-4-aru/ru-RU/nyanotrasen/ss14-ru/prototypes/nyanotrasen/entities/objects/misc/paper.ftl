@@ -1,3 +1,3 @@
-ent-PaperManifestPassenger = passenger manifest
-    .desc = A list of details about who's registered on a particular transit.
+ent-PaperManifestPassenger = пассажирский манифест
+    .desc = Список сведений о том, кто зарегистрирован на конкретном транзите.
     .suffix = { "" }

@@ -1,10 +1,10 @@
-ent-RandomHumanoidSpawnerZombie = Random Zombie
+ent-RandomHumanoidSpawnerZombie = Случайный зомби
     .suffix = Dying
     .desc = { "" }
-ent-RandomHumanoidSpawnerZombieSurprise = Random Zombie
+ent-RandomHumanoidSpawnerZombieSurprise = Случайный зомби
     .suffix = Surprise
     .desc = { "" }
-ent-RandomHumanoidSpawnerZombieBrute = Random Zombie
+ent-RandomHumanoidSpawnerZombieBrute = Случайный зомби
     .suffix = Brute
     .desc = { "" }
 ent-ZombieSurpriseDetector = { "" }

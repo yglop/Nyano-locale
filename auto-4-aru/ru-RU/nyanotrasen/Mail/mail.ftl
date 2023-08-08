@@ -1,2 +1,2 @@
-mail-item-name-unaddressed = mail
-mail-item-name-addressed = mail ({ $recipient })
+mail-item-name-unaddressed = посылка
+mail-item-name-addressed = посылка ({ $recipient })

@@ -1,3 +1,3 @@
-ent-WallDrywall = drywall
-    .desc = It looks sturdy enough.
+ent-WallDrywall = гипсокартон
+    .desc = Выглядит достаточно прочным.
     .suffix = { "" }

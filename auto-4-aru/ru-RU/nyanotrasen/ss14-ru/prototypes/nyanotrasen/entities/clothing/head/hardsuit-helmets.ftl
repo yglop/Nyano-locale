@@ -1,3 +1,3 @@
-ent-ClothingHeadHelmetHardsuitMystagogue = mystagogue's hardsuit helmet
-    .desc = Lightweight hardsuit helmet that has a galaxy-first psionic passthrough system.
+ent-ClothingHeadHelmetHardsuitMystagogue = шлем скафандра мистагога
+    .desc = Легкий шлем скафандра с первой в галактике псионической системой пропускания.
     .suffix = { "" }

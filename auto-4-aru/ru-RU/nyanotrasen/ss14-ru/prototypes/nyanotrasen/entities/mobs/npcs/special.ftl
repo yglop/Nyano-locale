@@ -1,5 +1,5 @@
-ent-MobQuestHecate = Hecate
-    .desc = A glimmering hologram depicting a young woman with dark hair and a bright smile.
+ent-MobQuestHecate = Геката
+    .desc = Мерцающая голограмма, изображающая молодую женщину с темными волосами и яркой улыбкой.
     .suffix = { "" }
 ent-MobQuestHecateShipwrecked = { ent-MobQuestHecate }
     .desc = { ent-MobQuestHecate.desc }

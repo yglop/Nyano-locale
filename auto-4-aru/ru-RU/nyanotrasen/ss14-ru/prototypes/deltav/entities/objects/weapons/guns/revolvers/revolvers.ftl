@@ -1,3 +1,3 @@
-ent-WeaponRevolverSnub = snubbed .45
-    .desc = An old and reliable revolver, modified to be more easily concealed. Uses .45 magnum ammo.
+ent-WeaponRevolverSnub = пренебрежение .45
+    .desc = Старый и надежный револьвер, модифицированный для того, чтобы его было легче спрятать. Использует патроны калибра .45 магнум.
     .suffix = { "" }

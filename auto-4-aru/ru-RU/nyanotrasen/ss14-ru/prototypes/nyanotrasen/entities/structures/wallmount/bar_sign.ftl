@@ -1,3 +1,3 @@
-ent-BarSignKlubSkub = Klub Skub
-    .desc = Skub!
+ent-BarSignKlubSkub = Скаб клуб
+    .desc = Скаб!
     .suffix = { "" }

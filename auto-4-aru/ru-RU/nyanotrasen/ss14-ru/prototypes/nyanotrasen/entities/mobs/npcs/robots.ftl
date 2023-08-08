@@ -1,12 +1,12 @@
-ent-BaseMobMalfunctioningRobot = broken robot
+ent-BaseMobMalfunctioningRobot = сломанный робот
     .suffix = AI
     .desc = { ent-MobSiliconBase.desc }
 ent-MobMalfunctioningRobotCutter = { ent-BaseMobMalfunctioningRobot }
-    .desc = A small robot that hovers around dizzily. It's brandishing a saw.
+    .desc = Небольшой робот, который кружит вокруг головокружительно. Он размахивает пилой.
     .suffix = { "" }
 ent-MobMalfunctioningRobotPoisoner = { ent-BaseMobMalfunctioningRobot }
-    .desc = A robot hovering around erratically. There's a viscous bubbling sound coming from within it.
+    .desc = Робот беспорядочно парит. Изнутри доносится вязкий булькающий звук.
     .suffix = { "" }
 ent-MobMalfunctioningRobotTank = { ent-BaseMobMalfunctioningRobot }
-    .desc = A robot on treads that sparks and sputters. Frayed wires emerge from its crunched, armored chassis. It is lugging around a launcher package.
+    .desc = Робот на гусеницах, который искрит и шипит. Из его помятого бронированного шасси торчат потертые провода. Он таскает за собой пакет запуска.
     .suffix = { "" }

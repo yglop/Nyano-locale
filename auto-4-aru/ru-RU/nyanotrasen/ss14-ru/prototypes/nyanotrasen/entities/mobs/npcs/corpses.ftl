@@ -1,3 +1,3 @@
-ent-RandomHumanoidSpawnerUnaffiliatedDead = Random Unaffiliated
+ent-RandomHumanoidSpawnerUnaffiliatedDead = Случайный Неаффилированный
     .suffix = Dead
     .desc = { "" }

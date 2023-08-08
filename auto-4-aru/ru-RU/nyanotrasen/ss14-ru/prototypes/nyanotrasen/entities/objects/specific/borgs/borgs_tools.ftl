@@ -1,6 +1,6 @@
-ent-PowerCellRobotTool = robot tool power cell
-    .desc = A small cell that self recharges. Used in robot tools.
+ent-PowerCellRobotTool = силовая ячейка робота
+    .desc = Маленькая ячейка, которая самоподзаряжается. Используется в роботизированных инструментах.
     .suffix = { "" }
-ent-HoloprojectorEngineeringBorg = engineering holoprojector
-    .desc = Displays a warning sign.
+ent-HoloprojectorEngineeringBorg = инженерный голопроектор
+    .desc = Отображает предупреждающий знак.
     .suffix = { "" }

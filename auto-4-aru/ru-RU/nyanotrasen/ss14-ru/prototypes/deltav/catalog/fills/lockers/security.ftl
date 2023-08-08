@@ -1,6 +1,6 @@
-ent-GunSafePistolUniversal = mk32 safe
+ent-GunSafePistolUniversal = мк32 безопасный
     .desc = { ent-GunSafe.desc }
     .suffix = { "" }
-ent-GunSafeSniperGrand = mark 1 rifle safe
+ent-GunSafeSniperGrand = винтовка м 1 безопасная
     .desc = { ent-GunSafe.desc }
     .suffix = { "" }

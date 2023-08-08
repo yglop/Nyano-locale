@@ -1,3 +1,3 @@
-ent-WeaponPistolViperWood = viper
-    .desc = A small, low-power pistol with pleasant lacquered wooden grips. Uses .35 auto ammo.
+ent-WeaponPistolViperWood = гадюка
+    .desc = Небольшой маломощный пистолет с приятной лакированной деревянной рукоятью. Использует патроны калибра .35 auto.
     .suffix = Wood

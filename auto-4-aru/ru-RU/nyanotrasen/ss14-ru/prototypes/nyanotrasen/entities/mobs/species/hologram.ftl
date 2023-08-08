@@ -1,5 +1,5 @@
-ent-BaseMobHologram = hologram
-    .desc = A projection of light imitating a humanoid in appearance and mannerism.
+ent-BaseMobHologram = голограмма
+    .desc = Проекция света, имитирующая гуманоида по внешнему виду и манерам.
     .suffix = { "" }
 ent-MobHologramHuman = { ent-BaseMobHologram }
     .suffix = Human

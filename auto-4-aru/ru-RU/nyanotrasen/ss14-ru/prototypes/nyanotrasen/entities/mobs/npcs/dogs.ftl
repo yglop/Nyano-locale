@@ -1,3 +1,3 @@
-ent-MobPibbleVent = ventbull
-    .desc = Some kind of pitbull mix... or maybe the next stage in pibble evolution?
+ent-MobPibbleVent = вентбулл
+    .desc = Какая-то помесь питбуля... или, может быть, следующая стадия эволюции крошки?
     .suffix = { "" }

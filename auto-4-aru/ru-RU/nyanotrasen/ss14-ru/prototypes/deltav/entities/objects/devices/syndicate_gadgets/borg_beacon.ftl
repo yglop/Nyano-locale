@@ -1,3 +1,3 @@
-ent-CyborgBeaconSyndicate = syndicate robot beacon
-    .desc = A single-use beacon designed to quickly launch reinforcement cyborgs into the field.
+ent-CyborgBeaconSyndicate = маяк робота синдиката
+    .desc = Одноразовый маяк, предназначенный для быстрого запуска киборгов подкрепления в поле.
     .suffix = { "" }

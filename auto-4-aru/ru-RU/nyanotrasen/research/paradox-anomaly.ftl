@@ -1,2 +1,2 @@
-command-eviltwin-description = Spawn a paradox anomaly as a ghost role. Optionally specify the entityUid of someone to use as the basis for the anomaly.
+command-eviltwin-description = Создайте парадоксальную аномалию в качестве роли призрака. При необходимости укажите entityUid кого-либо, чтобы использовать его в качестве основы для аномалии.
 command-eviltwin-help = eviltwin [entityUid]

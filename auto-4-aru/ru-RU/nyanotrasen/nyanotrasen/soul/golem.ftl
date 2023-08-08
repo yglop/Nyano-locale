@@ -1,1 +1,1 @@
-golem-no-using-guns-popup = You are unable to work this weapon!
+golem-no-using-guns-popup = Вы не можете работать с этим оружием!

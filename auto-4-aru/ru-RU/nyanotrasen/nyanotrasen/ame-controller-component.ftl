@@ -1,1 +1,1 @@
-ame-controller-component-low-fuel-warning = WARNING: AME fuel at { $percentage }%!
+ame-controller-component-low-fuel-warning = ВНИМАНИЕ: топливо ДАМ { $percentage }%!

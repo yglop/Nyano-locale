@@ -1,4 +1,4 @@
-ent-BaseMobVulpkanin = Urist McVulp
+ent-BaseMobVulpkanin = Урист МакВульп
     .desc = { ent-BaseMobOrganic.desc }
     .suffix = { "" }
 ent-MobVulpkaninDummy = Vulpkanin Dummy

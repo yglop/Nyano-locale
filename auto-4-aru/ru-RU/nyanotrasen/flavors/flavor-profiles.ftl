@@ -1,6 +1,6 @@
-flavor-complex-gunmetal = bittersweet and creamy
-flavor-complex-lemondrop = refreshingly tart
-flavor-complex-greengrass = like a holiday in the sun
-flavor-complex-daiquiri = fashionable
-flavor-complex-arsonistsbrew = like ash and flame
-flavor-complex-dulleavene = ominous
+flavor-complex-gunmetal = горько-сладкий и сливочный
+flavor-complex-lemondrop = освежающе терпкий
+flavor-complex-greengrass = как праздник на солнце
+flavor-complex-daiquiri = модно
+flavor-complex-arsonistsbrew = как пепел и пламя
+flavor-complex-dulleavene = зловещий

@@ -1,3 +1,3 @@
-ent-SpawnPointPlayerCharacter = ghost role spawn point
+ent-SpawnPointPlayerCharacter = точка появления призрачной роли
     .suffix = player character, DO NOT MAP
     .desc = { ent-MarkerBase.desc }

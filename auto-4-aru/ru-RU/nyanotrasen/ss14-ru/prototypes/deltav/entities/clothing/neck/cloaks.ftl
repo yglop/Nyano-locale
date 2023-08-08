@@ -1,3 +1,3 @@
-ent-ClothingNeckCloakMystagogue = mystagogue's cloak
-    .desc = A comfy white and purple cloak, perfect for those sleepless nights when you're haunted by the yet unsolved mysteries of the universe.
+ent-ClothingNeckCloakMystagogue = плащ мистагога
+    .desc = Удобный бело-фиолетовый плащ идеально подходит для тех бессонных ночей, когда вас преследуют еще неразгаданные тайны вселенной.
     .suffix = { "" }

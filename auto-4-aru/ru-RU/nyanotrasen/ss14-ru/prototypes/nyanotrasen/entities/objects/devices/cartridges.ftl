@@ -1,3 +1,3 @@
-ent-GlimmerMonitorCartridge = glimmer monitor cartridge
-    .desc = A cartridge that keeps track of glimmer.
+ent-GlimmerMonitorCartridge = глиммер монитор картридж
+    .desc = Картридж, который отслеживает глиммер.
     .suffix = { "" }

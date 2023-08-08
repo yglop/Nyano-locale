@@ -1,3 +1,3 @@
-ent-ClothingOuterWinterCCWarden = central command's armored winter coat
-    .desc = A tough, utilitarian coat designed for the wardens of Central Command. Reinforced kevlar plating and high quality fur allow the user to look stylish while staying protected.
+ent-ClothingOuterWinterCCWarden = бронированное зимнее пальто центкома
+    .desc = Прочное практичное пальто, предназначенное для смотрителей Центрального командования. Усиленное кевларовое покрытие и высококачественный мех позволяют пользователю выглядеть стильно и при этом оставаться защищенным.
     .suffix = { "" }

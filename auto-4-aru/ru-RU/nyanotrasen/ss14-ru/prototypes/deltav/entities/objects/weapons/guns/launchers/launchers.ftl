@@ -1,3 +1,3 @@
-ent-WeaponLauncherChinaLakeBorg = china lake
-    .desc = PLOOP! Contains a built in replicator to slowly make more ammo.
+ent-WeaponLauncherChinaLakeBorg = китайское озеро
+    .desc = БАХ! Содержит встроенный репликатор для медленного производства большего количества боеприпасов.
     .suffix = Robot, energy based

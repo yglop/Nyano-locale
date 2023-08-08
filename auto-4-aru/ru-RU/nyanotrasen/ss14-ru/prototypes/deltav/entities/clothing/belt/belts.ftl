@@ -1,3 +1,3 @@
-ent-ClothingBeltSuspendersBlack = suspenders
-    .desc = For holding your pants up.
+ent-ClothingBeltSuspendersBlack = подтяжки
+    .desc = Для поддержки штанов.
     .suffix = { "" }

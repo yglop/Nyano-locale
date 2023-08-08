@@ -1,4 +1,4 @@
-ent-CrateArmoryGrand = rifles crate
-    .desc = Contains two Mark 1 Rifles and a box of speed-loaders. Requires Armory access to open.
-ent-CrateArmoryUniversal = Universal crate
-    .desc = Contains two Mk32 Universal handguns with four mags. Requires Armory access to open.
+ent-CrateArmoryGrand = ящик с винтовками
+        .desc = Для случаев, когда все летит туда, куда пел Егор Летов.
+ent-CrateArmoryUniversal = Универсальный ящик
+    .desc = Содержит два пистолета Мк32 Универсальный с четырьмя магазинами. Для открытия требуется доступ в Оружейную.

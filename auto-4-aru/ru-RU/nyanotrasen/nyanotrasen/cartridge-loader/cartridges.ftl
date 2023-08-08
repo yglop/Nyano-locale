@@ -1,4 +1,4 @@
-glimmer-monitor-program-name = Glimmer Monitor
-glimmer-monitor-current-glimmer = Current Glimmer: { $glimmer }Ψ
-glimmer-monitor-interval = Interval
-glimmer-monitor-sync = Sync
+glimmer-monitor-program-name = Глиммер монитор
+glimmer-monitor-current-glimmer = Текущий глиммер: { $glimmer }Ψ
+glimmer-monitor-interval = Интервал
+glimmer-monitor-sync = Синхронизировать

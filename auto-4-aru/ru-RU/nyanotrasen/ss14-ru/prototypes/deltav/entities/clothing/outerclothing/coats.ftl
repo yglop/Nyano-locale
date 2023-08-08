@@ -1,9 +1,9 @@
-ent-ClothingOuterCoatOvercoat = overcoat
-    .desc = A warm, dark overcoat, suitable for formal occasions.
+ent-ClothingOuterCoatOvercoat = пальто
+    .desc = Теплое темное пальто, подходящее для официальных мероприятий.
     .suffix = { "" }
-ent-ClothingOuterCoatGreatcoat = greatcoat
-    .desc = A drab and rugged greatcoat, padded for protection against the elements.
+ent-ClothingOuterCoatGreatcoat = шинель
+    .desc = Серая и грубая шинель с подкладкой для защиты от непогоды.
     .suffix = { "" }
-ent-ClothingOuterCoatLeatherJacket = leather jacket
-    .desc = A rugged leather jacket, for fashion or for utility.
+ent-ClothingOuterCoatLeatherJacket = кожаный пиджак
+    .desc = Прочная кожаная куртка для моды или для удобства.
     .suffix = { "" }

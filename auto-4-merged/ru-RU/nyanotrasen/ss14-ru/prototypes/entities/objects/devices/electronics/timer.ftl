@@ -1,0 +1,9 @@
+ent-SignalTimerElectronics = электроника сигнального таймера
+    .desc = Электронная плата, используемая в таймере. Похоже, вы можете использовать отвертку, чтобы изменить тип платы.
+    .suffix = { "" }
+ent-ScreenTimerElectronics = электроника экранного таймера
+    .desc = { ent-SignalTimerElectronics.desc }
+    .suffix = { "" }
+ent-BrigTimerElectronics = электроника бриг таймера
+    .desc = { ent-SignalTimerElectronics.desc }
+    .suffix = { "" }

@@ -1,0 +1,12 @@
+ent-SuitStorageEVAAlternate = { ent-SuitStorageBase }
+    .suffix = EVA, Большой шлем
+    .desc = { ent-SuitStorageBase.desc }
+ent-SuitStorageEVAEmergency = { ent-SuitStorageBase }
+    .suffix = Аварийная EVA
+    .desc = { ent-SuitStorageBase.desc }
+ent-SuitStorageNTSRA = { ent-SuitStorageBase }
+    .suffix = Древняя EVA
+    .desc = { ent-SuitStorageBase.desc }
+ent-SuitStorageBasic = { ent-SuitStorageBase }
+    .suffix = Базовый скафандр
+    .desc = { ent-SuitStorageBase.desc }

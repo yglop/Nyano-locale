@@ -1,0 +1,12 @@
+ent-AsteroidSalvageSmall = Маленький обломок астероида
+    .desc = { ent-BaseAsteroidDebris.desc }
+    .suffix = { "" }
+ent-AsteroidSalvageMedium = Средний обломок астероида
+    .desc = { ent-BaseAsteroidDebris.desc }
+    .suffix = { "" }
+ent-AsteroidSalvageLarge = Крупный обломок астероида
+    .desc = { ent-BaseAsteroidDebris.desc }
+    .suffix = { "" }
+ent-AsteroidSalvageHuge = Гигантский обломок астероида
+    .desc = { ent-BaseAsteroidDebris.desc }
+    .suffix = { "" }

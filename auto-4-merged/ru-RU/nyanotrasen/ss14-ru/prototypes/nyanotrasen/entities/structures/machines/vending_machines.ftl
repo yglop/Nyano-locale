@@ -1,0 +1,15 @@
+ent-VendingMachineEpiDrobe = Эпимат
+    .desc = Эти белые вещи требуют регулярной стирки, знаете об этом?.
+    .suffix = { "" }
+ent-VendingMachineAutomatrobe = Автомат
+    .desc = Автоматически хорош.
+    .suffix = { "" }
+ent-VendingMachineRepDrobe = Репортомат
+    .desc = Автомат для всех ваших репортерских нужд.
+    .suffix = { "" }
+ent-VendingMachineBoxingDrobe = Боксомат
+    .desc = Всегда с дефицитом вещей.
+    .suffix = { "" }
+ent-VendingMachineMailDrobe = Почтомат
+    .desc = Ни плазма, ни космические карпы или глубина космоса не встанут на пути посылки к ее адресату.
+    .suffix = { "" }

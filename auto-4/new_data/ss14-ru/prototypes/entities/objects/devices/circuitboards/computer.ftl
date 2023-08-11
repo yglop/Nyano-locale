@@ -1,9 +1,0 @@
-ent-StationRecordsComputerCircuitboard = station records computer board
-    .desc = A computer printed circuit board for a station records computer.
-    .suffix = { "" }
-ent-CargoBountyComputerCircuitboard = cargo bounty computer board
-    .desc = A computer printed circuit board for a cargo bounty computer.
-    .suffix = { "" }
-ent-SalvageShuttleConsoleCircuitboard = salvage shuttle console board
-    .desc = A computer printed circuit board for a salvage shuttle console.
-    .suffix = { "" }

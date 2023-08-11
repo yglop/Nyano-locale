@@ -1,9 +1,0 @@
-ent-SpaceCash2500 = { ent-SpaceCash }
-    .suffix = 2500
-    .desc = { ent-SpaceCash.desc }
-ent-SpaceCash5000 = { ent-SpaceCash }
-    .suffix = 5000
-    .desc = { ent-SpaceCash.desc }
-ent-SpaceCash10000 = { ent-SpaceCash }
-    .suffix = 10000
-    .desc = { ent-SpaceCash.desc }

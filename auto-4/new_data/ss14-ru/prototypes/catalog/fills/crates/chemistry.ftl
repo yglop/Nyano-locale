@@ -1,9 +1,0 @@
-ent-CrateChemistryP = { ent-CrateChemistrySecure }
-    .desc = { ent-CrateChemistrySecure.desc }
-    .suffix = { "" }
-ent-CrateChemistryS = { ent-CrateChemistrySecure }
-    .desc = { ent-CrateChemistrySecure.desc }
-    .suffix = { "" }
-ent-CrateChemistryD = { ent-CrateChemistrySecure }
-    .desc = { ent-CrateChemistrySecure.desc }
-    .suffix = { "" }

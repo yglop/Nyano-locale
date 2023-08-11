@@ -1,9 +1,0 @@
-ent-PaperCargoBountyManifest = bounty manifest
-    .desc = A paper label designating a crate as containing a bounty. Selling a crate with this label will fulfill the bounty.
-    .suffix = { "" }
-ent-RubberStampBase = generic rubber stamp
-    .desc = A rubber stamp for stamping important documents.
-    .suffix = { "" }
-ent-RubberStampBaseAlt = alternate rubber stamp
-    .desc = { ent-RubberStampBase.desc }
-    .suffix = { "" }

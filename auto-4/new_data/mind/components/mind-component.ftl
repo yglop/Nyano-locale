@@ -1,1 +1,0 @@
-comp-mind-examined-dead-and-ssd = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) } dead, and { SUBJECT($ent) } { CONJUGATE-BASIC($ent, "have", "has") } already completed { POSS-ADJ($ent) } journey to whatever is next.

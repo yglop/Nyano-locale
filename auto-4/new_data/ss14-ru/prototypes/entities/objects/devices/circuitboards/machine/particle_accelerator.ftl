@@ -1,9 +1,0 @@
-ent-MachineParticleAcceleratorEmitterStarboardCircuitboard = PA starboard emitter board
-    .desc = A machine board for a particle accelerator left emitter
-    .suffix = { "" }
-ent-MachineParticleAcceleratorEmitterForeCircuitboard = PA fore emitter board
-    .desc = A machine board for a particle accelerator center emitter
-    .suffix = { "" }
-ent-MachineParticleAcceleratorEmitterPortCircuitboard = PA port emitter board
-    .desc = A machine board for a particle accelerator right emitter
-    .suffix = { "" }

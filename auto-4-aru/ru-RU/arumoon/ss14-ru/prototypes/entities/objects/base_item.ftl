@@ -1,3 +1,0 @@
-ent-PowerCellSlotHighItem = { "" }
-    .desc = { "" }
-    .suffix = { "" }

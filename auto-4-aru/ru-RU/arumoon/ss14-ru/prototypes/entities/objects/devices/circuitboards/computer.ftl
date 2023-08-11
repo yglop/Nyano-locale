@@ -1,9 +1,0 @@
-ent-StationRecordsComputerCircuitboard = консоль станционного учёта (машинная плата)
-    .desc = A computer printed circuit board for a station records computer.
-    .suffix = { "" }
-ent-CargoBountyComputerCircuitboard = консоль заданий карго (машинная плата)
-    .desc = Машинная плата для консоли заданий карго.
-    .suffix = { "" }
-ent-SalvageShuttleConsoleCircuitboard = консоль управления шаттлом утилей (машинная плата)
-    .desc = Машинная плата для консоли управления утилизационным шаттлом.
-    .suffix = { "" }

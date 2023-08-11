@@ -1,1 +1,0 @@
-research-console-menu-research-points-detailed-text = Исследование: [color=orchid]{ $points }[/color] / [color=mediumorchid]{ $pointsLimit }[/color] ([color=mediumslateblue]{ $pointsPerSecond }[/color] / сек.)

@@ -1,1 +1,0 @@
-tiles-asphalt = асфальт

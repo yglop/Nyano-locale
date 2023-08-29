@@ -1,3 +1,0 @@
-ent-BaseBagOpenClose = { "" }
-    .desc = { "" }
-    .suffix = { "" }

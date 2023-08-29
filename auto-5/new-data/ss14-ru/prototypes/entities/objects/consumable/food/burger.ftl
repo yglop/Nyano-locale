@@ -1,9 +1,0 @@
-ent-FoodBurgerCat = cat burger
-    .desc = Finally those cats and catpeople are worth something!
-    .suffix = { "" }
-ent-FoodBurgerHuman = human burger
-    .desc = You cant tell who this is made of...
-    .suffix = { "" }
-ent-FoodBurgerPlain = plain burger
-    .desc = A boring, dry burger.
-    .suffix = { "" }

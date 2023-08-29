@@ -1,9 +1,0 @@
-ent-BaseMech = { "" }
-    .desc = { "" }
-    .suffix = { "" }
-ent-MechRipley = АТМЕ "Рипли"
-    .desc = Универсальный и легкобронированный, Рипли пригодится практически для любого сценария тяжелой работы. АТМЕ означает Автономная Тяговая Механизированная Единица.
-    .suffix = { "" }
-ent-MechRipleyBattery = { ent-MechRipley }
-    .suffix = Батарея
-    .desc = { ent-MechRipley.desc }

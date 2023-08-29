@@ -1,9 +1,0 @@
-ent-EmpImplanter = EMP implanter
-    .desc = { ent-BaseImplantOnlyImplanter.desc }
-    .suffix = { "" }
-ent-DnaScramblerImplanter = DNA scrambler implanter
-    .desc = { ent-BaseImplantOnlyImplanter.desc }
-    .suffix = { "" }
-ent-DeathRattleImplanter = death rattle implanter
-    .desc = { ent-BaseImplantOnlyImplanter.desc }
-    .suffix = { "" }

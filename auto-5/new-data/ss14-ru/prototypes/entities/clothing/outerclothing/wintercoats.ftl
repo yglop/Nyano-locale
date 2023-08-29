@@ -1,0 +1,9 @@
+ent-ClothingOuterWinterSyndieCap = syndicate's winter coat
+    .desc = The syndicate's winter coat is made of durable fabric, with gilded patterns, and coarse wool.
+    .suffix = { "" }
+ent-ClothingOuterWinterSyndieCapArmored = syndicate's armored winter coat
+    .desc = The syndicate's armored winter coat is made of durable fabric, with gilded patterns, and coarse wool.
+    .suffix = { "" }
+ent-ClothingOuterWinterSyndie = syndicate's winter coat
+    .desc = Insulated winter coat, looks like a merch from "Syndieland"
+    .suffix = { "" }

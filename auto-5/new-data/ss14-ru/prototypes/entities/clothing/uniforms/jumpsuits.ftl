@@ -1,0 +1,9 @@
+ent-ClothingUniformJumpsuitJacketMonkey = bartender's jacket monkey
+    .desc = A decent jacket, for a decent monkey.
+    .suffix = { "" }
+ent-ClothingUniformJumpsuitMercenary = mercenary jumpsuit
+    .desc = Clothing for real mercenaries who have gone through fire, water and the jungle of planets flooded with dangerous monsters or targets for which a reward has been assigned.
+    .suffix = { "" }
+ent-ClothingUniformJumpsuitSyndieFormalDress = syndicate formal dress
+    .desc = The syndicate's uniform is made in an elegant style, it's even a pity to do dirty tricks in this.
+    .suffix = { "" }

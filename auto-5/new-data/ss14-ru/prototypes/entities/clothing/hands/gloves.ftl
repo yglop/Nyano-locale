@@ -1,0 +1,12 @@
+ent-ClothingHandsTacticalMaidGloves = tactical maid gloves
+    .desc = Tactical maid gloves, every self-respecting maid should be able to discreetly eliminate her goals.
+    .suffix = { "" }
+ent-ClothingHandsMercGlovesCombat = mercenary combat gloves
+    .desc = High-quality combat gloves to protect hands from mechanical damage during combat.
+    .suffix = { "" }
+ent-ClothingHandsGlovesMercFingerless = mercenary fingerless gloves
+    .desc = Gloves that may not protect you from finger burns, but will make you cooler.
+    .suffix = { "" }
+ent-ClothingHandsGlovesForensic = forensic gloves
+    .desc = Do not leave fibers or fingerprints. If you work without them, you're A TERRIBLE DETECTIVE.
+    .suffix = { "" }

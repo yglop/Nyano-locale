@@ -1,0 +1,15 @@
+ent-CrateToyBox = toy box
+    .desc = A box overflowing with fun.
+    .suffix = Empty
+ent-CrateCoffin = coffin
+    .desc = A comfy coffin, excelent place for the vampires and corpses.
+    .suffix = { "" }
+ent-CrateWoodenGrave = grave
+    .desc = Someone died here...
+    .suffix = wooden
+ent-CrateStoneGrave = grave
+    .desc = Someone died here...
+    .suffix = stone
+ent-CrateSyndicate = { ent-CrateBaseWeldable }
+    .desc = { ent-CrateBaseWeldable.desc }
+    .suffix = { "" }

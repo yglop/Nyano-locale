@@ -1,0 +1,12 @@
+ent-ReagentContainerCornmeal = cornmeal bag
+    .desc = A big bag of cornmeal. Good for cooking!
+    .suffix = { "" }
+ent-ReagentContainerCornmealSmall = cornmeal pack
+    .desc = A pack of cornmeal. Good for cooking!
+    .suffix = { "" }
+ent-FoodDoughCornmeal = cornmeal dough
+    .desc = A piece of cornmeal dough.
+    .suffix = { "" }
+ent-FoodDoughCornmealSlice = cornmeal dough slice
+    .desc = A slice of cornmeal dough.
+    .suffix = { "" }

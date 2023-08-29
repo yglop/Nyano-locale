@@ -1,0 +1,9 @@
+ent-ClothingOuterCoatRnd = scientist lab coat
+    .desc = A suit that protects against minor chemical spills. Has a purple stripe on the shoulder.
+    .suffix = { "" }
+ent-ClothingOuterCoatSyndieCap = syndicate's coat
+    .desc = The syndicate's coat is made of durable fabric, with gilded patterns.
+    .suffix = { "" }
+ent-ClothingOuterCoatSyndieCapArmored = syndicate's armored coat
+    .desc = The syndicate's armored coat is made of durable fabric, with gilded patterns.
+    .suffix = { "" }

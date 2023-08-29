@@ -1,0 +1,9 @@
+ent-EmpImplant = EMP implant
+    .desc = This implant creates an electromagnetic pulse when activated.
+    .suffix = { "" }
+ent-DnaScramblerImplant = DNA scrambler implant
+    .desc = This implant lets the user randomly change their appearance and name once.
+    .suffix = { "" }
+ent-DeathRattleImplant = death rattle implant
+    .desc = This implant will inform the Syndicate radio channel should the user fall into critical condition or die.
+    .suffix = { "" }

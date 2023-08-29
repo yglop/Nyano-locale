@@ -1,3 +1,3 @@
-ent-MobCapybara = capybara
-    .desc = Friend shaped.
+ent-MobCapybara = капибара
+    .desc = В форме друга.
     .suffix = { "" }

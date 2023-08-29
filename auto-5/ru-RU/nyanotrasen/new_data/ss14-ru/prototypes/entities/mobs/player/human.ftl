@@ -1,3 +1,3 @@
-ent-MobHumanScrambled = Scrambled Human
+ent-MobHumanScrambled = Зашифрованный человек
     .desc = { ent-MobHuman.desc }
     .suffix = { "" }

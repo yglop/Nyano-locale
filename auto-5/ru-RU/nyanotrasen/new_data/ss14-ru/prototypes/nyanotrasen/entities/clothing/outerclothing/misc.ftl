@@ -1,9 +1,9 @@
-ent-ClothingOuterCoatMNKWhiteHoodie = MNK white hoodie
-    .desc = A classic MNK produced white hoodie.
+ent-ClothingOuterCoatMNKWhiteHoodie = Белая толстовка MNK
+    .desc = Классическая белая толстовка производства MNK.
     .suffix = { "" }
-ent-ClothingOuterCoatMNKBlackTopCoat = MNK black top coat
-    .desc = A sturdy MNK black top coat.
+ent-ClothingOuterCoatMNKBlackTopCoat = Черная футболка MNK
+    .desc = Прочная футболка MNK черного цвета.
     .suffix = { "" }
-ent-ClothingOuterCoatMNKBlackJacket = MNK black jacket
-    .desc = A light MNK black jacket.
+ent-ClothingOuterCoatMNKBlackJacket = Черная куртка MNK
+    .desc = Легкая черная куртка MNK.
     .suffix = { "" }

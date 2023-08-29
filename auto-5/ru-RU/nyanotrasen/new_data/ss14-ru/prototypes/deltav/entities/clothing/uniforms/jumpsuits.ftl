@@ -1,0 +1,12 @@
+ent-ClothingUniformJumpsuitLostTourist = lost tourist uniform
+    .desc = The uniform of those who just want to relax on a beach... Where is the beach anyway?
+    .suffix = { "" }
+ent-ClothingUniformJumpsuitJeansRed = red sweater with jeans
+    .desc = A red sweater with blue jeans. This one has the dominant jeans.
+    .suffix = { "" }
+ent-ClothingUniformJumpsuitJeansGreen = green sweater with jeans
+    .desc = A green sweater with blue jeans. This one has the recessive jeans.
+    .suffix = { "" }
+ent-ClothingUniformJumpsuitJeansBrown = brown sweater with jeans
+    .desc = A brown sweater with blue jeans.
+    .suffix = { "" }

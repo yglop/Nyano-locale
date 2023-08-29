@@ -1,3 +1,3 @@
-ent-VendingMachineMNKDrobe = MNK Drobe
-    .desc = Quality garments provided by MoNoKrome.
+ent-VendingMachineMNKDrobe = MNKвенд
+    .desc = Качественная одежда, представленная компанией MoNoChrome.
     .suffix = { "" }

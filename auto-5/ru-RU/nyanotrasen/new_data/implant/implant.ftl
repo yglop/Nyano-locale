@@ -1,1 +1,1 @@
-scramble-attempt-while-scrambled-popup = Scrambled DNA detected, please extract implant before undoing the current scramble.
+scramble-attempt-while-scrambled-popup = Обнаружена зашифрованная ДНК. Прежде чем отменить текущую шифрование, извлеките имплантат.

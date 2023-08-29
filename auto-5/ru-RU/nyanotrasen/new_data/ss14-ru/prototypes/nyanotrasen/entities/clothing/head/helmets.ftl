@@ -1,3 +1,3 @@
-ent-ClothingHeadHelmetKabuto = kabuto and menpo
-    .desc = A modern replica of a kabuto and menpo.
+ent-ClothingHeadHelmetKabuto = кабуто и менпо
+    .desc = Современная копия кабуто и менпо.
     .suffix = { "" }

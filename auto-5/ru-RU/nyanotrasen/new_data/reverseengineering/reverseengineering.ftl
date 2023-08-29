@@ -1,1 +1,1 @@
-reverse-engineering-popup-failure = { CAPITALIZE(THE($machine)) } blows smoke and debris everywhere!
+reverse-engineering-popup-failure = { CAPITALIZE(($machine)) } разносит дым и мусор повсюду!

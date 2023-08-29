@@ -1,3 +1,3 @@
-ent-ClothingShoesBootsFishing = fishing boots
-    .desc = Smells fishy!
+ent-ClothingShoesBootsFishing = рыбацкие лодки
+    .desc = Пахнет рыбой!
     .suffix = { "" }

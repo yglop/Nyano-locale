@@ -1,2 +1,2 @@
-tool-quality-woodcutting-name = Woodcutting
-tool-quality-woodcutting-tool-name = Hatchet
+tool-quality-woodcutting-name = Лесозаготовка
+tool-quality-woodcutting-tool-name = Топор

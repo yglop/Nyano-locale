@@ -1,6 +1,6 @@
-ent-ClothingOuterCorporateJacket = Nanotrasen Corporate Jacket
-    .desc = A cozy jacket with the Nanotrasen logo printed on the back. Merchandise rewarded to stations with a safety factor of uhh... seven.
+ent-ClothingOuterCorporateJacket = Фирменная куртка Нанотрейзен
+    .desc = Уютная куртка с логотипом Нанотрейзен, напечатанным на спине. Товары, доставляемые на станции с коэффициентом запаса прочности, равным э-э-э... семи.
     .suffix = { "" }
-ent-ClothingOuterDenimJacket = Denim jacket
-    .desc = A jean jacket with a warm inner lining.
+ent-ClothingOuterDenimJacket = Джинсовая куртка
+    .desc = Джинсовая куртка с теплой внутренней подкладкой.
     .suffix = { "" }

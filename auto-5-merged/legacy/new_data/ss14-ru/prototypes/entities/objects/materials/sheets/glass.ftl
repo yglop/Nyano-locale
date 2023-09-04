@@ -1,0 +1,12 @@
+ent-SheetUGlass = урановое стекло
+    .desc = Лист уранового стекла.
+    .suffix = Полный
+ent-SheetUGlass1 = { ent-SheetUGlass }
+    .suffix = Один
+    .desc = { ent-SheetUGlass.desc }
+ent-SheetRUGlass = урановое бронестекло
+    .desc = Лист армированного уранового стекла.
+    .suffix = Полный
+ent-SheetRUGlass1 = { ent-SheetRUGlass }
+    .suffix = Один
+    .desc = { ent-SheetRUGlass.desc }

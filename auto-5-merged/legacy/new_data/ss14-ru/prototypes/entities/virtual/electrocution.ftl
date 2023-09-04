@@ -1,0 +1,3 @@
+ent-VirtualElectrocutionLoadBase = { "" }
+    .desc = { "" }
+    .suffix = { "" }

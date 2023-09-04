@@ -1,0 +1,15 @@
+ent-ClothingOuterCoatRyuzo = Загадочное пальто
+    .desc = В другой вселенной Синдикат известны как хорошие парени.
+    .suffix = ADMIN ONLY, DO NOT MAP
+ent-ClothingOuterCoatHoPArmored = бронепальто главы персонала
+    .desc = Удобная куртка, которая предлагает некоторую защиту от действий бога и человека.
+    .suffix = { "" }
+ent-ClothingOuterCoatOvercoat = пальто
+    .desc = Теплое темное пальто, подходящее для официальных мероприятий.
+    .suffix = { "" }
+ent-ClothingOuterCoatGreatcoat = шинель
+    .desc = Серая и грубая шинель с подкладкой для защиты от непогоды.
+    .suffix = { "" }
+ent-ClothingOuterCoatLeatherJacket = кожаный пиджак
+    .desc = Прочная кожаная куртка для моды или для удобства.
+    .suffix = { "" }

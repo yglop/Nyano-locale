@@ -1,0 +1,12 @@
+ent-ClothingHeadsetEpistemics = гарнитура эпистемика
+    .desc = Достоверно воссоздает истинную сущность удаленных звуковых волн.
+    .suffix = { "" }
+ent-ClothingHeadsetMystagogue = гарнитура мистагога
+    .desc = Все еще полезно для кого-то с экстрасенсорными способностями.
+    .suffix = { "" }
+ent-ClothingHeadsetAltMystagogue = полноразмерная гарнитура эпистемика
+    .desc = { ent-ClothingHeadsetAlt.desc }
+    .suffix = { "" }
+ent-ClothingHeadsetMantis = гарнитура детектива
+    .desc = { ent-ClothingHeadsetAlt.desc }
+    .suffix = { "" }

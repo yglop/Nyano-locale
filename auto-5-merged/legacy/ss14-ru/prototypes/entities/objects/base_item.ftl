@@ -1,0 +1,15 @@
+ent-BaseItem = item
+    .desc = { "" }
+    .suffix = { "" }
+ent-BaseStorageItem = storage item
+    .desc = { ent-BaseItem.desc }
+    .suffix = { "" }
+ent-PowerCellSlotSmallItem = { "" }
+    .desc = { "" }
+    .suffix = { "" }
+ent-PowerCellSlotMediumItem = { "" }
+    .desc = { "" }
+    .suffix = { "" }
+ent-PowerCellSlotHighItem = { "" }
+    .desc = { "" }
+    .suffix = { "" }

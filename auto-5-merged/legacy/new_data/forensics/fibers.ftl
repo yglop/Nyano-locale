@@ -1,0 +1,1 @@
+fibers-olive = оливковые

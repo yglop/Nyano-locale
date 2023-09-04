@@ -1,0 +1,9 @@
+ent-ClothingOuterCoatMNKWhiteHoodie = Белая толстовка MNK
+    .desc = Классическая белая толстовка производства MNK.
+    .suffix = { "" }
+ent-ClothingOuterCoatMNKBlackTopCoat = Черная футболка MNK
+    .desc = Прочная футболка MNK черного цвета.
+    .suffix = { "" }
+ent-ClothingOuterCoatMNKBlackJacket = Черная куртка MNK
+    .desc = Легкая черная куртка MNK.
+    .suffix = { "" }

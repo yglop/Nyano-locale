@@ -43,7 +43,7 @@ def parser(f):
 def data_logger(ru_files_old):
     data = {}
     for i in ru_files_old:
-        with open(i) as f:
+        with open(i, encoding='utf-8-sig') as f:
             parsed_data = parser(f)
             for k, v in parsed_data.items():
                 data[k] = v
@@ -54,7 +54,7 @@ def data_logger(ru_files_old):
 def writer(data, k, file_path, file_name):  
     if not os.path.exists(file_path):
         os.makedirs(file_path)
-    with open(file_path + file_name, 'a') as f0:
+    with open(file_path + file_name, 'a', encoding='utf-8-sig') as f0:
         print(k, ' =', data[k], file=f0, end='', sep='')
     return
 
@@ -65,7 +65,7 @@ def create_ru_new(en_files_path, ru_files_path_old, ru_files_path_new):
     ru_data_old = data_logger(path_writer(ru_files_path_old))
     
     for _file in en_files:
-        with open(_file) as f:
+        with open(_file, encoding='utf-8-sig') as f:
             data = parser(f)
 
         addition = _file.split('en-US')[1]
@@ -82,7 +82,7 @@ def merge_ru(ru_files_path_old, ru_files_path_new):
     ru_files_new = path_writer(ru_files_path_new)
 
     for _file in ru_files_new:
-        with open(_file) as f:
+        with open(_file, encoding='utf-8-sig') as f:
             data = parser(f)
         
         addition = _file.split('ru-RU/new')[1]
@@ -102,14 +102,14 @@ def write_translated_to_new(ru_files_path_new, ru_files_path_translated):
     ru_data_translated = data_logger(path_writer(ru_files_path_translated))
 
     for _file in ru_files_new:
-        with open(_file) as f:
+        with open(_file, encoding='utf-8-sig') as f:
             data = parser(f)
 
         addition = _file.split('ru-RU/new')[1]
         file_name = addition.split('/')[-1]
         work_dir = addition[:len(file_name) * -1]
 
-        f0 = open(_file, 'w')
+        f0 = open(_file, 'w', encoding='utf-8-sig')
         f0.close()
 
         for k in data:
@@ -117,7 +117,6 @@ def write_translated_to_new(ru_files_path_new, ru_files_path_translated):
                 data[k] = ru_data_translated[k]            
                 
             writer(data, k, ru_files_path_new + work_dir, file_name)
-        
     return
 
 
@@ -142,7 +141,6 @@ def main():
         write_translated_to_new(ru_files_path_new, ru_files_path_translated)
     else:
         print('емае')
-
     return
 
 
